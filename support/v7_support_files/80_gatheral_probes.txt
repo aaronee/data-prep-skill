@@ -1,0 +1,20 @@
+### chunks whose page range touches pages 22-27
+  c0008 pages=[20, 22] len=1621 path='Figures' | 'minimum monthly return of each coupon period. | 130 11.1 Payoff of a variance swap (dashed line) and volatility swap (solid line) as a funct'
+  c0009 pages=[22, 24] len=663 path='Tables' | '6.1 Upper and lower arbitrage bounds for one-year 0.5 strike options for various credit spreads (at-the-money volatility is 20%). | 79 6.2 I'
+  c0010 pages=[24, 24] len=2035 path='Foreword' | 'Jim has given round six of these lectures on volatility modeling at the Courant Institute of New York University, slowly purifying these not'
+  c0011 pages=[24, 25] len=2055 path='Foreword' | 'II The difference between Jim Gatheral and other members of the quant community lies in the following: To many, models provide a representat'
+  c0012 pages=[25, 25] len=85 path='Foreword' | '-Nassim Nicholas Taleb1 June, 2006 1Author, Dynamic Hedging and Fooled by Randomness.'
+  c0013 pages=[26, 26] len=2394 path='Preface' | 'E ver since the advent of the Black-Scholes option pricing formula, the study of implied volatility has become a central preoccupation for b'
+  c0014 pages=[26, 27] len=20 path='Preface' | 'xxiii xxiv | PREFACE'
+  c0015 pages=[27, 27] len=2390 path='Preface' | 'option to the super exotic Napoleon. One of the themes of this book is the representation of implied volatility in terms of a weighted avera'
+  c0016 pages=[27, 28] len=350 path='Preface' | 'To be able to follow the mathematics, basic knowledge of probability and stochastic calculus such as could be obtained by reading Neftci (20'
+
+### probes against clean.txt (whitespace collapsed, lowercased)
+  full=0 first6words=0  'in this chapter, we begin our exploration of the volatility surface by'
+  full=0 first6words=0  'that it might make sense to model volatility as a random variable'
+  full=0 first6words=0  'figure 1.1 spx daily log returns from december 31, 1984'
+  full=0 first6words=0  'sv models bring some order into this chaos'
+  full=0 first6words=0  'there is a simple economic argument that justifies the mean reversion'
+  full=0 first6words=0  'consider the distribution of the volatility of ibm in 100 years'
+  full=0 first6words=0  'in this section, we follow wilmott (2000) closely'
+  full=0 first6words=0  'one need only recall the stock market crash of october 1987'

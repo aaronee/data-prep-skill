@@ -1,0 +1,20 @@
+Who praises the book for combining an accessible exposition with calibration guidance? | Eckhard Platen | 2 | c0000
+What is shown in figure 1.2 regarding SPX daily log returns? | 77 years | 16 | c0003
+In which figure, comparing stochastic and local volatility, are the two lines almost indistinguishable? | European binary call | 18 | c0006
+According to the list of figures, how is the coupon in figure 10.2 computed? | 10% plus the worst monthly return | 22 | c0009
+Which well-known author wrote the preface to this book? | Nassim Nicholas Taleb | 25 | c0012
+What does the book represent implied volatility as, over all possible future volatility scenarios? | weighted average | 27 | c0015
+What concepts are presented alongside the reflection principle and put-call symmetry? | quasi-static hedging | 28 | c0018
+What is phi(S, v, t) called in the derivation? | market price of volatility risk | 37 | c0021
+What equation is derived when the stock price diffuses with risk-neutral drift and local volatility? | Dupire equation | 40 | c0024
+What is local variance the risk-neutral expectation of the instantaneous variance, conditional on? | conditional on the final stock price | 44 | c0027
+What values do C and D take at tau = 0 in the integration of the PDE? | terminal conditions | 48 | c0030
+Which discretization is always to be preferred, and why? | Milstein discretization | 53 | c0033
+How does Brigo and Mercurio make European option prices known in closed form? | closed-form | 56 | c0036
+Against what deterministic function is the call delta-hedged in equation (3.4)? | deterministic forward variance function | 58 | c0039
+What is the closed-form solution of the expectation of the instantaneous variance at time s? | unconditional expectation | 62 | c0042
+How many expirations would in principle allow us to determine lambda and the product rho-eta? | just two expirations | 66 | c0045
+What can never be fitted by a stochastic volatility model with time-homogeneous parameters? | term structure of the volatility skew | 70 | c0048
+What makes the Heston-Nandi model look rather unrealistic? | critical stock price | 75 | c0051
+Where on the volatility surface does the impact of jumps concentrate, per the chapter 5 introduction? | short-expiration end | 81 | c0054
+What terms must be eliminated so that the jump-diffusion portfolio is risk free? | eliminate dS terms | 84 | c0057

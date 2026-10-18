@@ -1,0 +1,69 @@
+################ trading  (lit: Trading Volatility, Correlation, Term Structure and Skew | Colin Bennett, Miguel A. Gil.lit.json)
+Q1 (file line 1) gold_page=1 cited=c0000 chunk_pages=[1, 3] gold==chunk_first_page=True phrase='Santander Investment Securities' pages_with_phrase=[1, 214] (n=2) spans=[] STATUS=MATCH
+Q2 (file line 2) gold_page=6 cited=c0006 chunk_pages=[6, 6] gold==chunk_first_page=True phrase='zero theta' pages_with_phrase=[6, 76, 97, 149] (n=4) spans=[] STATUS=MATCH
+Q3 (file line 3) gold_page=9 cited=c0012 chunk_pages=[9, 11] gold==chunk_first_page=True phrase='put vs CDS' pages_with_phrase=[9, 202, 205, 210, 211] (n=5) spans=[] STATUS=MATCH
+Q4 (file line 4) gold_page=15 cited=c0018 chunk_pages=[15, 15] gold==chunk_first_page=True phrase='N(d2)' pages_with_phrase=[4, 6, 15, 45, 56, 57, 62, 72, 81, 91]... (n=19) spans=[] STATUS=MATCH
+Q5 (file line 5) gold_page=19 cited=c0024 chunk_pages=[19, 20] gold==chunk_first_page=True phrase='hurdle for automatic exercise' pages_with_phrase=[20] (n=1) spans=[] STATUS=OFF_BY_ONE
+Q6 (file line 6) gold_page=24 cited=c0030 chunk_pages=[24, 24] gold==chunk_first_page=True phrase='seven distinct periods' pages_with_phrase=[24] (n=1) spans=[] STATUS=MATCH
+Q7 (file line 7) gold_page=27 cited=c0036 chunk_pages=[27, 28] gold==chunk_first_page=True phrase='index level' pages_with_phrase=[23, 26, 28, 81, 204] (n=5) spans=[] STATUS=OFF_BY_ONE
+Q8 (file line 8) gold_page=31 cited=c0042 chunk_pages=[31, 32] gold==chunk_first_page=True phrase='calendar collar' pages_with_phrase=[31, 32] (n=2) spans=[] STATUS=MATCH
+Q9 (file line 9) gold_page=39 cited=c0048 chunk_pages=[39, 40] gold==chunk_first_page=True phrase='ex date' pages_with_phrase=[14, 18, 39, 40, 56] (n=5) spans=[] STATUS=MATCH
+Q10 (file line 10) gold_page=44 cited=c0054 chunk_pages=[44, 44] gold==chunk_first_page=True phrase='square of return' pages_with_phrase=[44] (n=1) spans=[] STATUS=MATCH
+Q11 (file line 11) gold_page=50 cited=c0060 chunk_pages=[50, 51] gold==chunk_first_page=True phrase='V1X index' pages_with_phrase=[50] (n=1) spans=[] STATUS=MATCH
+Q12 (file line 12) gold_page=53 cited=c0066 chunk_pages=[53, 54] gold==chunk_first_page=True phrase='corridor variance swaps' pages_with_phrase=[53] (n=1) spans=[] STATUS=MATCH
+Q13 (file line 13) gold_page=57 cited=c0072 chunk_pages=[57, 58] gold==chunk_first_page=True phrase='1/K2' pages_with_phrase=[2, 9, 58, 59, 102, 184, 185] (n=7) spans=[] STATUS=OFF_BY_ONE
+Q14 (file line 14) gold_page=62 cited=c0078 chunk_pages=[62, 63] gold==chunk_first_page=True phrase='implied variance' pages_with_phrase=[48, 63, 65] (n=3) spans=[] STATUS=OFF_BY_ONE
+Q15 (file line 15) gold_page=69 cited=c0084 chunk_pages=[69, 69] gold==chunk_first_page=True phrase='reasonable approximation' pages_with_phrase=[69, 173] (n=2) spans=[] STATUS=MATCH
+Q16 (file line 16) gold_page=72 cited=c0090 chunk_pages=[72, 73] gold==chunk_first_page=True phrase='c5 correlation points' pages_with_phrase=[70, 73, 74] (n=3) spans=[] STATUS=OFF_BY_ONE
+Q17 (file line 17) gold_page=76 cited=c0096 chunk_pages=[76, 77] gold==chunk_first_page=True phrase='theta-weighted dispersion' pages_with_phrase=[75, 76, 77, 78] (n=4) spans=[] STATUS=MATCH
+Q18 (file line 18) gold_page=81 cited=c0102 chunk_pages=[81, 81] gold==chunk_first_page=True phrase='embarrassment of cutting a dividend' pages_with_phrase=[81] (n=1) spans=[] STATUS=MATCH
+Q19 (file line 19) gold_page=86 cited=c0108 chunk_pages=[86, 87] gold==chunk_first_page=True phrase='profitable strategy' pages_with_phrase=[3, 21, 24, 86] (n=4) spans=[] STATUS=MATCH
+Q20 (file line 20) gold_page=90 cited=c0114 chunk_pages=[90, 91] gold==chunk_first_page=True phrase='dynamically hedged' pages_with_phrase=[90, 97] (n=2) spans=[] STATUS=MATCH
+SUMMARY trading: rows=20 MATCH=15 OFF_BY_ONE=5 | gold_page_equals_chunk_first_page=20/20
+
+################ gatheral  (lit: The Volatility Surface: A Practitioner's Guide | Jim Gatheral.lit.json)
+Q1 (file line 1) gold_page=2 cited=c0000 chunk_pages=[2, 4] gold==chunk_first_page=True phrase='Eckhard Platen' pages_with_phrase=[4, 197] (n=2) spans=[] STATUS=WRONG_PAGE
+Q2 (file line 2) gold_page=16 cited=c0003 chunk_pages=[16, 17] gold==chunk_first_page=True phrase='77 years' pages_with_phrase=[16, 34] (n=2) spans=[] STATUS=MATCH
+Q3 (file line 3) gold_page=18 cited=c0006 chunk_pages=[18, 19] gold==chunk_first_page=True phrase='European binary call' pages_with_phrase=[18, 19, 141, 142, 146, 202] (n=6) spans=[] STATUS=MATCH
+Q4 (file line 4) gold_page=22 cited=c0009 chunk_pages=[22, 24] gold==chunk_first_page=True phrase='10% plus the worst monthly return' pages_with_phrase=[22, 162] (n=2) spans=[] STATUS=MATCH
+Q5 (file line 5) gold_page=25 cited=c0012 chunk_pages=[25, 25] gold==chunk_first_page=True phrase='Nassim Nicholas Taleb' pages_with_phrase=[2, 6, 7, 25] (n=4) spans=[] STATUS=MATCH
+Q6 (file line 6) gold_page=27 cited=c0015 chunk_pages=[27, 27] gold==chunk_first_page=True phrase='weighted average' pages_with_phrase=[27, 112] (n=2) spans=[] STATUS=MATCH
+Q7 (file line 7) gold_page=28 cited=c0018 chunk_pages=[28, 29] gold==chunk_first_page=True phrase='quasi-static hedging' pages_with_phrase=[13, 29, 145, 203, 207] (n=5) spans=[] STATUS=OFF_BY_ONE
+Q8 (file line 8) gold_page=37 cited=c0021 chunk_pages=[37, 38] gold==chunk_first_page=True phrase='market price of volatility risk' pages_with_phrase=[37, 38, 47, 205, 207, 210] (n=6) spans=[] STATUS=MATCH
+Q9 (file line 9) gold_page=40 cited=c0024 chunk_pages=[40, 42] gold==chunk_first_page=True phrase='Dupire equation' pages_with_phrase=[10, 40, 41, 42, 76, 202, 205] (n=7) spans=[] STATUS=MATCH
+Q10 (file line 10) gold_page=44 cited=c0027 chunk_pages=[44, 46] gold==chunk_first_page=True phrase='conditional on the final stock price' pages_with_phrase=[45] (n=1) spans=[] STATUS=OFF_BY_ONE
+Q11 (file line 11) gold_page=48 cited=c0030 chunk_pages=[48, 50] gold==chunk_first_page=True phrase='terminal conditions' pages_with_phrase=[50] (n=1) spans=[] STATUS=WRONG_PAGE
+Q12 (file line 12) gold_page=53 cited=c0033 chunk_pages=[53, 54] gold==chunk_first_page=True phrase='Milstein discretization' pages_with_phrase=[10, 53, 54, 203, 206] (n=5) spans=[] STATUS=MATCH
+Q13 (file line 13) gold_page=56 cited=c0036 chunk_pages=[56, 56] gold==chunk_first_page=True phrase='closed-form' pages_with_phrase=[55, 56, 89, 144, 151, 184, 196, 204] (n=8) spans=[] STATUS=MATCH
+Q14 (file line 14) gold_page=58 cited=c0039 chunk_pages=[58, 59] gold==chunk_first_page=True phrase='deterministic forward variance function' pages_with_phrase=[59] (n=1) spans=[] STATUS=OFF_BY_ONE
+Q15 (file line 15) gold_page=62 cited=c0042 chunk_pages=[62, 64] gold==chunk_first_page=True phrase='unconditional expectation' pages_with_phrase=[63, 204] (n=2) spans=[] STATUS=OFF_BY_ONE
+Q16 (file line 16) gold_page=66 cited=c0045 chunk_pages=[66, 67] gold==chunk_first_page=True phrase='just two expirations' pages_with_phrase=[66] (n=1) spans=[] STATUS=MATCH
+Q17 (file line 17) gold_page=70 cited=c0048 chunk_pages=[70, 71] gold==chunk_first_page=True phrase='term structure of the volatility skew' pages_with_phrase=[70] (n=1) spans=[] STATUS=MATCH
+Q18 (file line 18) gold_page=75 cited=c0051 chunk_pages=[75, 76] gold==chunk_first_page=True phrase='critical stock price' pages_with_phrase=[75, 76] (n=2) spans=[] STATUS=MATCH
+Q19 (file line 19) gold_page=81 cited=c0054 chunk_pages=[81, 81] gold==chunk_first_page=True phrase='short-expiration end' pages_with_phrase=[81] (n=1) spans=[] STATUS=MATCH
+Q20 (file line 20) gold_page=84 cited=c0057 chunk_pages=[84, 85] gold==chunk_first_page=True phrase='eliminate dS terms' pages_with_phrase=[36, 84] (n=2) spans=[] STATUS=MATCH
+SUMMARY gatheral: rows=20 MATCH=14 OFF_BY_ONE=4 WRONG_PAGE=2 | gold_page_equals_chunk_first_page=20/20
+
+################ prado  (lit: Advances in Financial Machine Learning | Marcos López de Prado.lit.json)
+Q1 (file line 1) gold_page=2 cited=c0000 chunk_pages=[2, 2] gold==chunk_first_page=True phrase='statistically overfit' pages_with_phrase=[2] (n=1) spans=[] STATUS=MATCH
+Q2 (file line 2) gold_page=18 cited=c0008 chunk_pages=[18, 19] gold==chunk_first_page=True phrase='The Flawless Backtest' pages_with_phrase=[18, 178] (n=2) spans=[] STATUS=MATCH
+Q3 (file line 3) gold_page=32 cited=c0016 chunk_pages=[32, 32] gold==chunk_first_page=True phrase='research factory' pages_with_phrase=[32] (n=1) spans=[] STATUS=MATCH
+Q4 (file line 4) gold_page=37 cited=c0024 chunk_pages=[37, 38] gold==chunk_first_page=True phrase='spigot algorithm' pages_with_phrase=[2, 38] (n=2) spans=[] STATUS=OFF_BY_ONE
+Q5 (file line 5) gold_page=43 cited=c0032 chunk_pages=[43, 44] gold==chunk_first_page=True phrase='mldp@quantresearch.org' pages_with_phrase=[43] (n=1) spans=[] STATUS=MATCH
+Q6 (file line 6) gold_page=51 cited=c0040 chunk_pages=[51, 51] gold==chunk_first_page=True phrase='three values' pages_with_phrase=[51] (n=1) spans=[] STATUS=MATCH
+Q7 (file line 7) gold_page=56 cited=c0048 chunk_pages=[56, 57] gold==chunk_first_page=True phrase='buckets of trades' pages_with_phrase=[57] (n=1) spans=[] STATUS=OFF_BY_ONE
+Q8 (file line 8) gold_page=63 cited=c0056 chunk_pages=[63, 64] gold==chunk_first_page=True phrase='matchEnd' pages_with_phrase=[63, 64] (n=2) spans=[] STATUS=MATCH
+Q9 (file line 9) gold_page=71 cited=c0064 chunk_pages=[71, 72] gold==chunk_first_page=True phrase='exponentially weighted moving standard deviation' pages_with_phrase=[71, 99] (n=2) spans=[] STATUS=MATCH
+Q10 (file line 10) gold_page=77 cited=c0072 chunk_pages=[77, 78] gold==chunk_first_page=True phrase='applyPtSlOnT1' pages_with_phrase=[72, 75, 76, 77, 333] (n=5) spans=[] STATUS=MATCH
+Q11 (file line 11) gold_page=89 cited=c0080 chunk_pages=[89, 90] gold==chunk_first_page=True phrase='oversampling' pages_with_phrase=[89, 132] (n=2) spans=[] STATUS=MATCH
+Q12 (file line 12) gold_page=97 cited=c0088 chunk_pages=[97, 98] gold==chunk_first_page=True phrase='underrepresented labels' pages_with_phrase=[98] (n=1) spans=[] STATUS=OFF_BY_ONE
+Q13 (file line 13) gold_page=105 cited=c0096 chunk_pages=[105, 107] gold==chunk_first_page=True phrase='first-order integer differentiation' pages_with_phrase=[105] (n=1) spans=[] STATUS=MATCH
+Q14 (file line 14) gold_page=113 cited=c0104 chunk_pages=[113, 114] gold==chunk_first_page=True phrase='d < 0.6' pages_with_phrase=[112, 114] (n=2) spans=[] STATUS=OFF_BY_ONE
+Q15 (file line 15) gold_page=123 cited=c0112 chunk_pages=[123, 124] gold==chunk_first_page=True phrase="Condorcet's Jury Theorem" pages_with_phrase=[123] (n=1) spans=[] STATUS=MATCH
+Q16 (file line 16) gold_page=130 cited=c0120 chunk_pages=[130, 131] gold==chunk_first_page=True phrase='the training set and the testing set' pages_with_phrase=[130] (n=1) spans=[] STATUS=MATCH
+Q17 (file line 17) gold_page=138 cited=c0128 chunk_pages=[138, 141] gold==chunk_first_page=True phrase='three sets: training, validation, and testing' pages_with_phrase=[138] (n=1) spans=[] STATUS=MATCH
+Q18 (file line 18) gold_page=146 cited=c0136 chunk_pages=[146, 147] gold==chunk_first_page=True phrase='eigenvalues' pages_with_phrase=[145, 146, 147, 249, 250, 342, 354] (n=7) spans=[] STATUS=MATCH
+Q19 (file line 19) gold_page=153 cited=c0144 chunk_pages=[153, 154] gold==chunk_first_page=True phrase='feature union' pages_with_phrase=[154] (n=1) spans=[] STATUS=OFF_BY_ONE
+Q20 (file line 20) gold_page=161 cited=c0152 chunk_pages=[161, 162] gold==chunk_first_page=True phrase='cross-entropy loss' pages_with_phrase=[161, 163, 323, 383] (n=4) spans=[] STATUS=MATCH
+SUMMARY prado: rows=20 MATCH=15 OFF_BY_ONE=5 | gold_page_equals_chunk_first_page=20/20
+

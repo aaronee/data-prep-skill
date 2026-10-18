@@ -1,0 +1,20 @@
+What techniques is finance criticized for using in today's financial world? | statistically overfit | 2 | c0000
+What is the title of section 11.2 on backtesting, per the table of contents? | The Flawless Backtest | 18 | c0008
+What should you learn how to set up, per the meta-strategy discussion? | research factory | 32 | c0016
+What did Bailey, Borwein, and Plouffe find without a proof? | spigot algorithm | 37 | c0024
+What email address does the author give for reader feedback on future editions? | mldp@quantresearch.org | 43 | c0032
+How many values are typically stored for a single quarterly GDP release? | three values | 51 | c0040
+How can TIBs be understood, regardless of the volumes, prices, or ticks traded? | buckets of trades | 56 | c0048
+What determines whether the futures series should be rolled forward or backward? | matchEnd | 63 | c0056
+How is the daily volatility computed at intraday estimation points? | exponentially weighted moving standard deviation | 71 | c0064
+Which function is applied to expand getEvents to incorporate meta-labeling stop losses? | applyPtSlOnT1 | 77 | c0072
+What does incorrectly assuming IID draws lead to when sampling with replacement? | oversampling | 89 | c0080
+What do class weights correct for? | underrepresented labels | 97 | c0088
+Which standard operation, used to derive log-price returns, is the d = 1 case? | first-order integer differentiation | 105 | c0096
+At what d threshold do all log-price series achieve stationarity? | d < 0.6 | 113 | c0104
+What theorem is the reader directed to, for further analysis of majority voting? | Condorcet's Jury Theorem | 123 | c0112
+Into what two groups does CV split observations of an IID process? | the training set and the testing set | 130 | c0120
+In part (b) of exercise 7.5, into what three sets is the dataset split? | three sets: training, validation, and testing | 138 | c0128
+By dropping features associated with small what, can orthogonalization reduce the dimensionality of the features matrix? | eigenvalues | 146 | c0136
+What does the new dataset in exercise 2 combine the original features with? | feature union | 153 | c0144
+Which performance metric, instead of accuracy, is right for hyper-parameter tuning of financial applications? | cross-entropy loss | 161 | c0152

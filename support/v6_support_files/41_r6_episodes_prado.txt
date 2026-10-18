@@ -1,0 +1,32 @@
+R6 episodes: 23  (trigger = heading line that set drop_until_heading; release = next R6-visible heading, which is KEPT; removed = R6-body lines dropped in episode)
+
+EP  1: trigger pg  14 'Contents'               -> released at pg 14 by 'ix' ; removed 21 lines
+EP  2: trigger pg  47 'REFERENCES'             -> released at pg 47 by 'BIBLIOGRAPHY' ; removed 13 lines
+EP  3: trigger pg  68 'REFERENCES'             -> released at pg 70 by 'Labeling' ; removed 21 lines
+EP  4: trigger pg  83 'BIBLIOGRAPHY'           -> released at pg 89 by 'LABEL' ; removed 178 lines
+EP  5: trigger pg 100 'REFERENCES'             -> released at pg 100 by 'BIBLIOGRAPHY' ; removed 5 lines
+EP  6: trigger pg 116 'REFERENCES'             -> released at pg 116 by 'BIBLIOGRAPHY' ; removed 6 lines
+EP  7: trigger pg 129 'REFERENCES'             -> released at pg 129 by 'BIBLIOGRAPHY' ; removed 7 lines
+EP  8: trigger pg 138 'BIBLIOGRAPHY'           -> released at pg 141 by 'BACKTESTING-IGNORE AT YOUR OWN PERIL' ; removed 59 lines
+EP  9: trigger pg 154 'REFERENCES'             -> released at pg 156 by 'Cross-Validation' ; removed 17 lines
+EP 10: trigger pg 163 'REFERENCES'             -> released at pg 164 by 'BIBLIOGRAPHY' ; removed 2 lines
+EP 11: trigger pg 176 'REFERENCES'             -> released at pg 176 by 'BIBLIOGRAPHY' ; removed 4 lines
+EP 12: trigger pg 185 'REFERENCES'             -> released at pg 186 by 'BIBLIOGRAPHY' ; removed 16 lines
+EP 13: trigger pg 195 'REFERENCES'             -> released at pg 198 by '[i,Ti' ; removed 92 lines
+EP 14: trigger pg 220 'REFERENCES'             -> released at pg 224 by 'OF TARGET POSITIONS' ; removed 89 lines
+EP 15: trigger pg 236 'REFERENCES'             -> released at pg 236 by 'BIBLIOGRAPHY' ; removed 15 lines
+EP 16: trigger pg 247 'REFERENCES'             -> released at pg 253 by '√' ; removed 164 lines
+EP 17: trigger pg 272 'REFERENCES'             -> released at pg 274 by 'PART 4' ; removed 42 lines
+EP 18: trigger pg 288 'REFERENCES'             -> released at pg 290 by '∑' ; removed 42 lines
+EP 19: trigger pg 305 'REFERENCES'             -> released at pg 306 by 'BIBLIOGRAPHY' ; removed 37 lines
+EP 20: trigger pg 325 'REFERENCES'             -> released at pg 328 by 'PART 5' ; removed 70 lines
+EP 21: trigger pg 344 'BIBLIOGRAPHY'           -> released at pg 348 by '∑H' ; removed 75 lines
+EP 22: trigger pg 355 'REFERENCES'             -> released at pg 356 by 'Technologies' ; removed 14 lines
+EP 23: trigger pg 377 'REFERENCES'             -> released at pg 380 by 'Index' ; removed 75 lines
+
+total R6-body lines attributed to episodes: 1064
+
+### cross-check vs removed.jsonl (exact):
+trading: instrumented total = total R6-body lines attributed to episodes: 24 | removed.jsonl = 24
+gatheral: instrumented total = total R6-body lines attributed to episodes: 494 | removed.jsonl = 494
+prado: instrumented total = total R6-body lines attributed to episodes: 1064 | removed.jsonl = 1064

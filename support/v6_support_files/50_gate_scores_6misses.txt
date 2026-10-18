@@ -1,0 +1,84 @@
+################ trading  (/tmp/v6/f3/trading/Trading Volatility, Correlation, Term Structure and Skew | Colin Bennett, Miguel A. Gil.lit.chunks.json)  N=271
+
+Q2 (cited c0006, gold page 6, phrase 'zero theta')
+  Q: Why is there no exposure to near-term volatility before a forward starting option begins?
+  cited c0006: score=18.958752 rank=4  pages=[6, 6]
+  chunks with score > cited : 3
+  chunks with score == cited: 1 -> ['c0006']
+  top-6 (rank, id, pages, score):
+    1. c0121 p97-97     22.019679
+    2. c0188 p149-150   20.036009
+    3. c0120 p95-97     19.875797
+    4. c0006 p6-6       18.958752  <== CITED
+    5. c0123 p98-98     14.136590
+    6. c0132 p103-104   13.431183
+
+Q13 (cited c0072, gold page 57, phrase '1/K2')
+  Q: With what weighting is a variance swap hedged by a portfolio of options?
+  cited c0072: score=16.128426 rank=4  pages=[57, 58]
+  chunks with score > cited : 3
+  chunks with score == cited: 1 -> ['c0072']
+  top-6 (rank, id, pages, score):
+    1. c0073 p58-59     20.252997
+    2. c0235 p185-186   17.236567
+    3. c0074 p59-60     17.031443
+    4. c0072 p57-58     16.128426  <== CITED
+    5. c0130 p102-102   14.437337
+    6. c0067 p54-54     14.160148
+
+################ gatheral  (/tmp/v6/f3/gatheral/The Volatility Surface: A Practitioner's Guide | Jim Gatheral.lit.chunks.json)  N=159
+
+Q4 (cited c0009, gold page 22, phrase '10% plus the worst monthly return')
+  Q: According to the list of figures, how is the coupon in figure 10.2 computed?
+  cited c0009: score=10.968533 rank=5  pages=[22, 24]
+  chunks with score > cited : 4
+  chunks with score == cited: 1 -> ['c0009']
+  top-6 (rank, id, pages, score):
+    1. c0120 p161-162   12.816299
+    2. c0114 p153-154   12.472379
+    3. c0116 p155-157   11.890243
+    4. c0119 p160-161   11.469242
+    5. c0009 p22-24     10.968533  <== CITED
+    6. c0007 p19-20     10.799919
+
+Q5 (cited c0012, gold page 25, phrase 'Nassim Nicholas Taleb')
+  Q: Which well-known author wrote the preface to this book?
+  cited c0012: score=0.000000 rank=157  pages=[25, 25]
+  chunks with score > cited : 156
+  chunks with score == cited: 3 -> ['c0012', 'c0149', 'c0158']
+  top-6 (rank, id, pages, score):
+    1. c0016 p27-28     10.477134
+    2. c0013 p26-26     10.196791
+    3. c0002 p7-16      9.934906
+    4. c0000 p2-4       9.250864
+    5. c0015 p27-27     8.541275
+    6. c0089 p125-126   7.435964
+
+Q20 (cited c0057, gold page 84, phrase 'eliminate dS terms')
+  Q: What terms must be eliminated so that the jump-diffusion portfolio is risk free?
+  cited c0057: score=16.638927 rank=4  pages=[84, 85]
+  chunks with score > cited : 3
+  chunks with score == cited: 1 -> ['c0057']
+  top-6 (rank, id, pages, score):
+    1. c0058 p85-86     18.780896
+    2. c0020 p36-37     17.855353
+    3. c0074 p106-107   16.670787
+    4. c0057 p84-85     16.638927  <== CITED
+    5. c0050 p74-75     13.662930
+    6. c0075 p107-108   12.680905
+
+################ prado  (/tmp/v6/f3/prado/Advances in Financial Machine Learning | Marcos López de Prado.lit.chunks.json)  N=356
+
+Q14 (cited c0104, gold page 113, phrase 'd < 0.6')
+  Q: At what d threshold do all log-price series achieve stationarity?
+  cited c0104: score=14.790799 rank=4  pages=[113, 114]
+  chunks with score > cited : 3
+  chunks with score == cited: 1 -> ['c0104']
+  top-6 (rank, id, pages, score):
+    1. c0101 p111-112   19.576075
+    2. c0106 p115-115   17.062847
+    3. c0093 p102-103   15.277859
+    4. c0104 p113-114   14.790799  <== CITED
+    5. c0107 p115-116   13.978829
+    6. c0218 p241-242   13.726597
+

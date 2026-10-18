@@ -1,0 +1,79 @@
+===== RAW INPUT page 32 (27 lines) =====
+  L 1: CHAPTER 1
+  L 2: Stochastic Volatility
+  L 3: and Local Volatility
+  L 4: I n this chapter, we begin our exploration of the volatility surface by intro-
+  L 5: ducing stochastic volatility-the notion that volatility varies in a random
+  L 6: fashion. Local variance is then shown to be a conditional expectation of
+  L 7: the instantaneous variance so that various quantities of interest (such as
+  L 8: option prices) may sometimes be computed as though future volatility were
+  L 9: deterministic rather than stochastic.
+  L10: STOCHASTIC VOLATILITY
+  L11: That it might make sense to model volatility as a random variable should
+  L12: be clear to the most casual observer of equity markets. To be convinced,
+  L13: one need only recall the stock market crash of October 1987. Nevertheless,
+  L14: given the success of the Black-Scholes model in parsimoniously describing
+
+===== RAW INPUT page 33 (32 lines) =====
+  L 1: THE VOLATILITY SURFACE
+  L 2: 0.1
+  L 3: 0.0
+  L 4: 0.1
+  L 5: 0.2
+  L 6: FIGURE 1.1 SPX daily log returns from December 31, 1984, to December 31,
+  L 7: 2004. Note the -22.9% return on October 19, 1987!
+  L 8: From a hedging perspective, traders who use the Black-Scholes model
+  L 9: must continuously change the volatility assumption in order to match
+  L10: market prices. Their hedge ratios change accordingly in an uncontrolled
+  L11: way: SV models bring some order into this chaos.
+  L12: A practical point that is more pertinent to a recurring theme of this
+  L13: book is that the prices of exotic options given by models based on Black-
+  L14: Scholes assumptions can be wildly wrong and dealers in such options are
+
+===== RAW INPUT page 34 (15 lines) =====
+  L 1: Stochastic Volatility and Local Volatility
+  L 2: 70
+  L 3: 60
+  L 4: 50
+  L 5: 40
+  L 6: 30
+  L 7: 20
+  L 8: 10
+  L 9: 0
+  L10: 0.20 0.15 0.10 0.05 0.00 0.05 0.10
+  L11: FIGURE 1.2 Frequency distribution of (77 years of) SPX daily log returns compared
+  L12: with the normal distribution. Although the -22.9% return on October 19, 1987, is
+  L13: not directly visible, the x-axis has been extended to the left to accommodate it!
+  L14: FIGURE 1.3 Q-Q plot of SPX daily log returns compared with the normal
+
+===== RAW INPUT page 35 (39 lines) =====
+  L 1: THE VOLATILITY SURFACE
+  L 2: There is a simple economic argument that justifies the mean reversion
+  L 3: of volatility. (The same argument is used to justify the mean reversion of
+  L 4: interest rates.) Consider the distribution of the volatility of IBM in 100 years
+  L 5: time. If volatility were not mean reverting (i.e., if the distribution of volatility
+  L 6: were not stable), the probability of the volatility of IBM being between 1%
+  L 7: and 100% would be rather low. Since we believe that it is overwhelmingly
+  L 8: likely that the volatility of IBM would in fact lie in that range, we deduce
+  L 9: that volatility must be mean reverting.
+  L10: Having motivated the description of variance as a mean reverting
+  L11: random variable, we are now ready to derive the valuation equation.
+  L12: Derivation of the Valuation Equation
+  L13: In this section, we follow Wilmott (2000) closely. Suppose that the stock
+  L14: price S and its variance v satisfy the following SDEs:
+
+=== distinct probes ===
+
+===== distinctive pp.32-35 sentences grepped against clean.txt (lowercased) =====
+  0 hits  'in this chapter, we begin our exploration of the volatility surface by'
+  0 hits  'that it might make sense to model volatility as a random variable shou'
+  0 hits  'sp daily log returns from december 31, 1984, to december 31,'
+  0 hits  'sv models bring some order into this chaos'
+  1 hits  'frequency distribution of (77 years of) spx daily log returns'
+  0 hits  'there is a simple economic argument that justifies the mean reversion'
+  0 hits  'consider the distribution of the volatility of ibm in 100 years'
+  0 hits  'in this section, we follow wilmott (2000) closely'
+  control (also p32): 'one need only recall the stock market crash of october 1987' -> 0 hits
+
+### the 1 hit is the TOC entry:
+72:1.2 Frequency distribution of (77 years of) SPX daily log returns compared with the normal distribution. Although the -22.9% return on October 19, 1987, is not directly visible, the x-axis

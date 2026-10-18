@@ -1,0 +1,18 @@
+### search: which file hashes start with 254cf54b / aedab848 / 12d83851?
+$ shasum -a 256 over every *.json|*.txt|*.jsonl in /tmp/v3 /tmp/v5 /tmp/v6 ~/Downloads
+(no matches anywhere — the prefixes exist only in the v5 report line 59 / TASK-v6 line 112)
+
+### $ grep -rn '254cf54b' ~/Downloads/*.md ~/Downloads/v6/*.md
+/Users/KHOA/Downloads/data-prep-skill-report-v5.md:59:Canonical runs: v3/v4 at `/tmp/v3/f3/` (2026-10-17); v5 re-run at `/tmp/v5/f3/` (2026-10-18, same inputs and flags, no `--code-fonts`). **v5 is byte-identical to v4 on all three books**: `chunks.json` SHA-256 equal (trading `254cf54b…`, gatheral `aedab848…`, prado `12d83851…`), `clean.txt` and `removed.jsonl` byte-identical (`cmp`), `report.txt` differs only in outdir path. Rule+text counter diff of before/after `removed.jsonl`: newly removed **0**, rescued **0** on all three books.
+/Users/KHOA/Downloads/v6/TASK-v6.md:112:Expected: chunks.json prefixes equal `254cf54b` (trading), `aedab848` (gatheral), `12d83851` (prado), and all three `identical`. The patch does not touch chunking or removal. Any difference: STOP.
+
+### repro under v5-era filename/path (2026-10-18, /tmp/v6/repro/trading, exit=0):
+07a69d093313d290d4a505d2432ba0195e4e9877fcff7e28d89debdfa47612aa  
+07a69d093313d290d4a505d2432ba0195e4e9877fcff7e28d89debdfa47612aa  
+07a69d093313d290d4a505d2432ba0195e4e9877fcff7e28d89debdfa47612aa  
+    -> 254cf54b does NOT reproduce; three-way identical 07a69d09
+
+### source field (input path) embedded in v3/f3 vs v5/f3:
+v3/f3: Trading Volatility, Correlation, Term Structure and Skew | Colin Bennett, Miguel A. Gil.lit.json
+v5/f3: Trading Volatility, Correlation, Term Structure and Skew | Colin Bennett, Miguel A. Gil.lit.json
+(identical path; filename string appears 273x in the file -> output hash depends on input filename)

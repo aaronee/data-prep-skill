@@ -1,0 +1,470 @@
+# body_h (median item height) = 9.09; heading test = font name contains 'Bold' OR height >= 11.36
+# cols: page line state outcome cand(1=looks like heading) cells font height | text[:80]
+p47   L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | FINANCIAL MACHINE LEARNING AS A DISTINCT SUBJECT
+p47   L2   drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p47   L3   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Bailey, D., P. Borwein, and S. Plouffe (1997): "On the rapid computation of vari
+p47   L4   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | constants." Mathematics of Computation, Vol. 66, No. 218, pp. 903-913.
+p47   L5   DROP-ON  R6-body DROPPED                cand=0 cells=5 font=-                      h=    - | Calkin, N. and M. Lopez | ." ́ | de Prado (2014a): | flow diagrams | Algorithmic
+p47   L6   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 3, No. 1, pp. 21-42.
+p47   L7   DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Calkin, N. and M. Lopez ́ de Prado (2014b): "The topology of macro financial flo
+p47   L8   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | of stochastic flow diagrams." Algorithmic Finance, Vol. 3, No. 1, pp. 43-85.
+p47   L9   DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Easley, D., M. Lopez ́ de Prado, and M. O'Hara (2013): High-Frequency Trading, 1
+p47   L10  DROP-ON  R6-body DROPPED                cand=0 cells=5 font=-                      h=    - | Lopez | ." ́ | de Prado, M. (2014): | Practical Applications, | Institutional
+p47   L11  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Investor Journals, Vol. 2, No. 3, pp. 1-3.
+p47   L12  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. (2015): "The Future of Empirical Finance." Journal of Portf
+p47   L13  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 41, No. 4, pp. 140-144.
+p47   L14  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Stigler, Stephen M. (1981): "Gauss and the invention of least squares." Annals o
+p47   L15  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | No. 3, pp. 465-474.
+p47   L16  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p47   L17  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Abu-Mostafa, Y., M. Magdon-Ismail, and H. Lin (2012): Learning from Data, 1st ed
+p47   L18  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Akansu, A., S. Kulkarni, and D. Malioutov (2016): Financial Signal Processing an
+p47   L19  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | ing, 1st ed. John Wiley & Sons-IEEE Press.
+p47   L20  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Aronson, D. and T. Masters (2013): Statistically Sound Machine Learning for Algo
+p47   L21  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | of Financial Instruments: Developing Predictive-Model-Based Trading Systems Usin
+p47   L22  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 1st ed. CreateSpace Independent Publishing Platform.
+p47   L23  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Boyarshinov, V. (2012): Machine Learning in Computational Finance: Practical Alg
+p47   L24  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Building Artificial Intelligence Applications, 1st ed. LAP LAMBERT Academic Publ
+p47   L25  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Cerniglia, J., F. Fabozzi, and P. Kolm (2016): "Best practices in research for q
+p47   L26  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | strategies." Journal of Portfolio Management, Vol. 42, No. 5, pp. 135-143.
+p47   L27  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Chan, E. (2017): Machine Trading: Deploying Computer Algorithms to Conquer the M
+p47   L28  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | ed. John Wiley & Sons.
+p47   L29  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Gareth, J., D. Witten, T. Hastie, and R. Tibshirani (2013): An Introduction to S
+p47   L30  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | with Applications in R, 1st ed. Springer.
+p47   L31  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Geron, A. (2017): Hands-On Machine Learning with Scikit-Learn and TensorFlow: Co
+p47   L32  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | and Techniques to Build Intelligent Systems, 1st ed. O'Reilly Media.
+p47   L33  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Gyorfi, L., G. Ottucsak, and H. Walk (2012): Machine Learning for Financial Engi
+p47   L34  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Imperial College Press.
+p47   L35  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hackeling, G. (2014): Mastering Machine Learning with Scikit-Learn, 1st ed. Pack
+p47   L36  drop-off R8 footnote                    cand=0 cells=2 font=-                      h=    - | Hastie, T., R. Tibshirani, and J. Friedman (2016): The Elements of Statistical L
+p47   L37  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Springer-Verlag.
+p47   L38  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hauck, T. (2014): Scikit-Learn Cookbook, 1st ed. Packt Publishing.
+p47   L39  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | McNelis, P. (2005): Neural Networks in Finance, 1st ed. Academic Press.
+p47   L40  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Raschka, S. (2015): Python Machine Learning, 1st ed. Packt Publishing.
+p100  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | BIBLIOGRAPHY
+p100  L2   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) A label 1 means a true positive, and a label 0 means a false positive. By
+p100  L3   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | applying balanced class weights, we are forcing the classifier to pay more
+p100  L4   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | attention to the true positives, and less attention to the false positives. Why
+p100  L5   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | does that make sense?
+p100  L6   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) What is the distribution of the predicted labels, before and after applying
+p100  L7   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | balanced class weights?
+p100  L8   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 4.6 Update the draw probabilities for the final draw in Section 4.5.3.
+p100  L9   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 4.7 In Section 4.5.3, suppose that number 2 is picked again in the second draw. 
+p100  L10  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | would be the updated probabilities for the third draw?
+p100  L11  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p100  L12  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Rao, C., P. Pathak and V. Koltchinskii (1997): "Bootstrap by sequential resampli
+p100  L13  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Statistical Planning and Inference, Vol. 64, No. 2, pp. 257-281.
+p100  L14  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | King, G. and L. Zeng (2001): "Logistic Regression in Rare Events Data." Working 
+p100  L15  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | University. Available at https://gking.harvard.edu/files/0s.pdf.
+p100  L16  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Lo, A. (2017): Adaptive Markets, 1st ed. Princeton University Press.
+p100  L17  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p100  L18  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | Sample weighting is a common topic in the ML learning literature. However the pr
+p100  L19  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | tical problems discussed in this chapter are characteristic of investment applic
+p100  L20  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | for which the academic literature is extremely scarce. Below are some publicatio
+p100  L21  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | that tangentially touch some of the issues discussed in this chapter.
+p100  L22  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Efron, B. (1979): "Bootstrap methods: Another look at the jackknife." Annals of 
+p100  L23  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | pp. 1-26.
+p100  L24  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Efron, B. (1983): "Estimating the error rote of a prediction rule: Improvement o
+p100  L25  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Journal of the American Statistical Association, Vol. 78, pp. 316-331.
+p100  L26  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Bickel, P. and D. Freedman (1981): "Some asymptotic theory for the bootstrap." A
+p100  L27  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 9, pp. 1196-1217.
+p100  L28  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Gine, E. and J. Zinn (1990): "Bootstrapping general empirical measures." Annals 
+p100  L29  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 18, pp. 851-869.
+p100  L30  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hall, P. and E. Mammen (1994): "On general resampling algorithms and their perfo
+p100  L31  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | tribution estimation." Annals of Statistics, Vol. 24, pp. 2011-2030.
+p100  L32  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Mitra, S. and P. Pathak (1984): "The nature of simple random sampling." Annals o
+p100  L33  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 12, pp. 1536-1542.
+p100  L34  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Pathak, P. (1964): "Sufficiency in sampling theory." Annals of Mathematical Stat
+p100  L35  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 795-808.
+p100  L36  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Pathak, P. (1964): "On inverse sampling with unequal probabilities." Biometrika,
+p100  L37  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 193.
+p100  L38  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Praestgaard, J. and J. Wellner (1993): "Exchangeably weighted bootstraps of the 
+p100  L39  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | process." Annals of Probability, Vol. 21, pp. 2053-2086.
+p100  L40  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Rao, C., P. Pathak and V. Koltchinskii (1997): "Bootstrap by sequential resampli
+p100  L41  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Statistical Planning and Inference, Vol. 64, No. 2, pp. 257-281.
+p116  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | BIBLIOGRAPHY
+p116  L2   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | Take the series from exercise 2.b:
+p116  L3   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Fit the series to a sine function. What is the R-squared?
+p116  L4   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Apply FFD(d=1). Fit the series to a sine function. What is the R-squared?
+p116  L5   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) What value of d maximizes the R-squared of a sinusoidal fit on FFD(d).
+p116  L6   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | Why?
+p116  L7   drop-off KEPT                           cand=0 cells=13 font=-                      h=    - | 5.4 Take the dollar bar series on E-mini S&P 500 futures. Using the code
+p116  L8   drop-off KEPT                           cand=0 cells=8 font=-                      h=    - | in Snippet 5.3, for some d ∈ [0, 2], compute fracDiff_FFD(fracDiff
+p116  L9   drop-off KEPT                           cand=0 cells=1 font=CourierStd             h=  9.1 | _FFD(series,d),-d). What do you get? Why?
+p116  L10  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 5.5 Take the dollar bar series on E-mini S&P 500 futures.
+p116  L11  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Form a new series as a cumulative sum of log-prices.
+p116  L12  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | (b) Apply FFD, with = 1E - 5. Determine for what minimum d ∈ [0, 2] the
+p116  L13  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | new series is stationary.
+p116  L14  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) Compute the correlation of the fracdiff series to the original (untransforme
+p116  L15  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | series.
+p116  L16  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (d) Apply an Engel-Granger cointegration test on the original and fracdiff serie
+p116  L17  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | Are they cointegrated? Why?
+p116  L18  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (e) Apply a Jarque-Bera normality test on the fracdiff series.
+p116  L19  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 5.6 Take the fracdiff series from exercise 5.
+p116  L20  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Apply a CUSUM filter (Chapter 2), where h is twice the standard deviation
+p116  L21  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | of the series.
+p116  L22  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Use the filtered timestamps to sample a features' matrix. Use as one of the
+p116  L23  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | features the fracdiff value.
+p116  L24  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) Form labels using the triple-barrier method, with symmetric horizontal bar-
+p116  L25  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | riers of twice the daily standard deviation, and a vertical barrier of 5 days.
+p116  L26  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (d) Fit a bagging classifier of decision trees where:
+p116  L27  drop-off KEPT                           cand=0 cells=6 font=-                      h=    - | (i) The observed features are bootstrapped using the sequential method
+p116  L28  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | from Chapter 4.
+p116  L29  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (ii) On each bootstrapped sample, sample weights are determined using the
+p116  L30  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | techniques from Chapter 4.
+p116  L31  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p116  L32  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Alexander, C. (2001): Market Models, 1st edition. John Wiley & Sons.
+p116  L33  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hamilton, J. (1994): Time Series Analysis, 1st ed. Princeton University Press.
+p116  L34  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hosking, J. (1981): "Fractional differencing." Biometrika, Vol. 68, No. 1, pp. 1
+p116  L35  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Jensen, A. and M. Nielsen (2014): "A fast fractional difference algorithm." Jour
+p116  L36  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Analysis, Vol. 35, No. 5, pp. 428-436.
+p116  L37  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. (2015): "The Future of Empirical Finance." Journal of Portf
+p116  L38  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 41, No. 4, pp. 140-144. Available at https://ssrn.com/abstract=2609734.
+p116  L39  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p116  L40  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Cavaliere, G., M. Nielsen, and A. Taylor (2017): "Quasi-maximum likelihood estim
+p116  L41  drop-off R8 footnote                    cand=0 cells=4 font=-                      h=    - | strap inference in fractional time series models with heteroskedasticity of unkn
+p116  L42  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Journal of Econometrics, Vol. 198, No. 1, pp. 165-188.
+p129  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | ENSEMBLE METHODS
+p129  L2   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | Suppose that your training set is based on highly overlap labels (i.e., with low
+p129  L3   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | uniqueness, as defined in Chapter 4).
+p129  L4   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Does this make bagging prone to overfitting, or just ineffective? Why?
+p129  L5   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Is out-of-bag accuracy generally reliable in financial applications? Why?
+p129  L6   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 6.3 Build an ensemble of estimators, where the base estimator is a decision tree
+p129  L7   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) How is this ensemble different from an RF?
+p129  L8   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Using sklearn, produce a bagging classifier that behaves like an RF. What
+p129  L9   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | parameters did you have to set up, and how?
+p129  L10  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 6.4 Consider the relation between an RF, the number of trees it is composed of, 
+p129  L11  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | the number of features utilized:
+p129  L12  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Could you envision a relation between the minimum number of trees needed
+p129  L13  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | in an RF and the number of features utilized?
+p129  L14  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Could the number of trees be too small for the number of features used?
+p129  L15  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) Could the number of trees be too high for the number of observations avail-
+p129  L16  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | able?
+p129  L17  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 6.5 How is out-of-bag accuracy different from stratified k-fold (with shuffling)
+p129  L18  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | validation accuracy?
+p129  L19  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p129  L20  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Geron, A. (2017): Hands-on Machine Learning with Scikit-Learn and TensorFlow: Co
+p129  L21  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | and Techniques to Build Intelligent Systems, 1st edition. O'Reilly Media.
+p129  L22  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Kearns, M. and L. Valiant (1989): "Cryptographic limitations on learning Boolean
+p129  L23  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | finite automata." In Proceedings of the 21st Annual ACM Symposium on Theory of C
+p129  L24  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | pp. 433-444, New York. Association for Computing Machinery.
+p129  L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Schapire, R. (1990): "The strength of weak learnability." Machine Learning. Kluw
+p129  L26  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Publishers. Vol. 5 No. 2, pp. 197-227.
+p129  L27  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p129  L28  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Gareth, J., D. Witten, T. Hastie, and R. Tibshirani (2013): An Introduction to S
+p129  L29  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | With Applications in R, 1st ed. Springer-Verlag.
+p129  L30  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hackeling, G. (2014): Mastering Machine Learning with Scikit-Learn, 1st ed. Pack
+p129  L31  drop-off R8 footnote                    cand=0 cells=2 font=-                      h=    - | Hastie, T., R. Tibshirani and J. Friedman (2016): The Elements of Statistical Le
+p129  L32  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Springer-Verlag.
+p129  L33  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hauck, T. (2014): Scikit-Learn Cookbook, 1st ed. Packt Publishing.
+p129  L34  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Raschka, S. (2015): Python Machine Learning, 1st ed. Packt Publishing.
+p163  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | HYPER-PARAMETER TUNING WITH CROSS-VALIDATION
+p163  L2   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (e) How can you access the optimal result?
+p163  L3   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (f) What is the CV score of the optimal parameter combination?
+p163  L4   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (g) How can you pass sample weights to the SVC?
+p163  L5   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 9.2 Using the same dataset from exercise 1,
+p163  L6   drop-off KEPT                           cand=0 cells=10 font=-                      h=    - | (a) Use RandomizedSearchCV on 10-fold CV to find the C,
+p163  L7   drop-off KEPT                           cand=0 cells=9 font=-                      h=    - | gamma optimal hyper-parameters on an SVC with RBF kernel,
+p163  L8   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | where param_distributions={'C':logUniform(a=1E-2,b=
+p163  L9   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 1E2),'gamma':logUniform(a=1E-2,b=1E2)},n_iter=25 and
+p163  L10  drop-off KEPT                           cand=0 cells=1 font=CourierStd             h=  9.1 | neg_log_loss is the scoring function.
+p163  L11  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) How long did it take to find this solution?
+p163  L12  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) Is the optimal parameter combination similar to the one found in exercise 1?
+p163  L13  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (d) What is the CV score of the optimal parameter combination? How does it
+p163  L14  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | compare to the CV score from exercise 1?
+p163  L15  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 9.3 From exercise 1,
+p163  L16  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Compute the Sharpe ratio of the resulting in-sample forecasts, from point 1.
+p163  L17  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | (see Chapter 14 for a definition of Sharpe ratio).
+p163  L18  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Repeat point 1.a, this time with accuracy as the scoring function. Compute
+p163  L19  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | the in-sample forecasts derived from the hyper-tuned parameters.
+p163  L20  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) What scoring method leads to higher (in-sample) Sharpe ratio?
+p163  L21  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 9.4 From exercise 2,
+p163  L22  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Compute the Sharpe ratio of the resulting in-sample forecasts, from point
+p163  L23  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | 2.a.
+p163  L24  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Repeat point 2.a, this time with accuracy as the scoring function. Compute
+p163  L25  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | the in-sample forecasts derived from the hyper-tuned parameters.
+p163  L26  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) What scoring method leads to higher (in-sample) Sharpe ratio?
+p163  L27  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 9.5 Read the definition of log loss, L [Y, P].
+p163  L28  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Why is the scoring function neg_log_loss defined as the negative log loss,
+p163  L29  drop-off KEPT                           cand=0 cells=1 font=STIXMath-Regular       h=  9.2 | -L [Y, P]?
+p163  L30  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) What would be the outcome of maximizing the log loss, rather than the neg-
+p163  L31  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | ative log loss?
+p163  L32  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 9.6 Consider an investment strategy that sizes its bets equally, regardless of t
+p163  L33  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | cast's confidence. In this case, what is a more appropriate scoring function for
+p163  L34  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | hyper-parameter tuning, accuracy or cross-entropy loss?
+p163  L35  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p163  L36  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Bergstra, J., R. Bardenet, Y. Bengio, and B. Kegl (2011): "Algorithms for hyper-
+p163  L37  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | tion." Advances in Neural Information Processing Systems, pp. 2546-2554.
+p163  L38  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Bergstra, J. and Y. Bengio (2012): "Random search for hyper-parameter optimizati
+p163  L39  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Machine Learning Research, Vol. 13, pp. 281-305.
+p164  L1   DROP-ON  R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | BIBLIOGRAPHY
+p164  L2   DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p164  L3   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Chapelle, O., V. Vapnik, O. Bousquet, and S. Mukherjee (2002): "Choosing multipl
+p164  L4   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | support vector machines." Machine Learning, Vol. 46, pp. 131-159.
+p164  L5   drop-off KEPT                           cand=0 cells=10 font=-                      h=    - | Chuong, B., C. Foo, and A. Ng (2008): "Efficient multiple hyperparameter learnin
+p164  L6   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | linear models." Advances in Neural Information Processing Systems, Vol. 20. Avai
+p164  L7   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | http://ai.stanford.edu/~chuongdo/papers/learn_reg.pdf.
+p164  L8   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Gorissen, D., K. Crombecq, I. Couckuyt, P. Demeester, and T. Dhaene (2010): "A s
+p164  L9   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | ing and adaptive sampling toolbox for computer based design." Journal of Machine
+p164  L10  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Research, Vol. 11, pp. 2051-2055.
+p164  L11  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hsu, C., C. Chang, and C. Lin (2010): "A practical guide to support vector class
+p164  L12  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | report, National Taiwan University.
+p164  L13  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hutter, F., H. Hoos, and K. Leyton-Brown (2011): "Sequential model-based optimiz
+p164  L14  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | eral algorithm configuration." Proceedings of the 5th international conference o
+p164  L15  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Intelligent Optimization, pp. 507-523.
+p164  L16  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Larsen, J., L. Hansen, C. Svarer, and M. Ohlsson (1996): "Design and regularizat
+p164  L17  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | works: The optimal use of a validation set." Proceedings of the 1996 IEEE Signal
+p164  L18  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Society Workshop.
+p164  L19  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Maclaurin, D., D. Duvenaud, and R. Adams (2015): "Gradient-based hyperparameter 
+p164  L20  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | through reversible learning." Working paper. Available at https://arxiv.org/abs/
+p164  L21  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Martinez-Cantin, R. (2014): "BayesOpt: A Bayesian optimization library for nonli
+p164  L22  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | experimental design and bandits." Journal of Machine Learning Research, Vol. 15,
+p164  L23  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 3919.
+p176  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | BIBLIOGRAPHY
+p176  L2   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 10.4 Using the t1 object from exercise 2.d:
+p176  L3   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) Compute the series ct = ct,l - ct,s, where ct,l is the number of concurrent
+p176  L4   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h= 11.0 | long bets at time t, and ct,s is the number of concurrent short bets at time t.
+p176  L5   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Fit a mixture of two Gaussians on {ct}. You may want to use the method
+p176  L6   drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | described in Lopez | . ́ | de Prado and | [2014]
+p176  L7   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | ⎧ F[ct]-F[0]
+p176  L8   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | ⎪ | if ct ≥ 0
+p176  L9   drop-off KEPT                           cand=0 cells=5 font=-                      h=    - | (c) | Derive the bet size as mt = ⎨ | 1-F[0] | , | where F [x] is the CDF
+p176  L10  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | ⎪ F[ct]-F[0]
+p176  L11  drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | ⎩ | if ct | < | 0
+p176  L12  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  6.9 | F[0]
+p176  L13  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | of the fitted mixture of two Gaussians for a value x.
+p176  L14  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (d) Explain how this series {mt} differ from the bet size series computed in
+p176  L15  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | exercise 3.
+p176  L16  drop-off KEPT                           cand=0 cells=11 font=-                      h=    - | 10.5 Repeat exercise 1, where you discretize m with a stepSize=.01,
+p176  L17  drop-off KEPT                           cand=0 cells=1 font=CourierStd             h=  9.1 | stepSize=.05, and stepSize=.1.
+p176  L18  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 10.6 Rewrite the equations in Section 10.6, so that the bet size is determined b
+p176  L19  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | power function rather than a sigmoid function.
+p176  L20  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 10.7 Modify Snippet 10.4 so that it implements the equations you derived in exer
+p176  L21  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | cise 6.
+p176  L22  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p176  L23  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. and M. Foreman (2014): "A mixture of Gaussians approach to 
+p176  L24  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | portfolio oversight: The EF3M algorithm." Quantitative Finance, Vol. 14, No. 5, 
+p176  L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Wu, T., C. Lin and R. Weng (2004): "Probability estimates for multi-class classi
+p176  L26  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | coupling." Journal of Machine Learning Research, Vol. 5, pp. 975-1005.
+p176  L27  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p176  L28  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Allwein, E., R. Schapire, and Y. Singer (2001): "Reducing multiclass to binary: 
+p176  L29  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | for margin classifiers." Journal of Machine Learning Research, Vol. 1, pp. 113-1
+p176  L30  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hastie, T. and R. Tibshirani (1998): "Classification by pairwise coupling." The 
+p176  L31  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 26, No. 1, pp. 451-471.
+p176  L32  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Refregier, P. and F. Vallet (1991): "Probabilistic approach for multiclass class
+p176  L33  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | networks." Proceedings of International Conference on Artificial Networks, pp. 1
+p185  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | THE DANGERS OF BACKTESTING
+p185  L2   drop-off KEPT                           cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | EXERCISES
+p185  L3   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 11.1 An analyst fits an RF classifier where some of the features include seasona
+p185  L4   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | adjusted employment data. He aligns with January data the seasonally adjusted
+p185  L5   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | value of January, etc. What "sin" has he committed?
+p185  L6   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 11.2 An analyst develops an ML algorithm where he generates a signal using closi
+p185  L7   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | prices, and executed at close. What's the sin?
+p185  L8   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 11.3 There is a 98.51% correlation between total revenue generated by arcades an
+p185  L9   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | computer science doctorates awarded in the United States. As the number of
+p185  L10  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | doctorates is expected to grow, should we invest in arcades companies? If not,
+p185  L11  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | what's the sin?
+p185  L12  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 11.4 The Wall Street Journal has reported that September is the only month of th
+p185  L13  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | year that has negative average stock returns, looking back 20, 50, and 100 years
+p185  L14  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | Should we sell stocks at the end of August? If not, what's the sin?
+p185  L15  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 11.5 We download P/E ratios from Bloomberg, rank stocks every month, sell the to
+p185  L16  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | quartile, and buy the long quartile. Performance is amazing. What's the sin?
+p185  L17  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p185  L18  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Arlot, S. and A. Celisse (2010): "A survey of cross-validation procedures for mo
+p185  L19  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Statistics Surveys, Vol. 4, pp. 40-79.
+p185  L20  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Bailey, D., J. Borwein, M. Lopez ́ de Prado, and J. Zhu (2014): "Pseudo-mathemat
+p185  L21  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | charlatanism: The effects of backtest overfitting on out-of-sample performance."
+p185  L22  DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | American Mathematical Society, Vol. 61, No. 5 (May), pp. 458-471. Available at h
+p185  L23  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | .com/abstract=2308659.
+p185  L24  DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | Bailey, D., J. Borwein, M. Lopez over- ́ de Prado, and J. Zhu (2017a): "The prob
+p185  L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | fitting." Journal of Computational Finance, Vol. 20, No. 4, pp. 39-70. Available
+p185  L26  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | .com/abstract=2326253.
+p185  L27  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Bailey, D. and M. Lopez ́ de Prado (2012): "The Sharpe ratio efficient frontier.
+p185  L28  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 15, No. 2 (Winter). Available at https://ssrn.com/abstract=1821643.
+p185  L29  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Bailey, D. and M. Lopez ́ de Prado (2014b): "The deflated Sharpe ratio: Correcti
+p185  L30  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | bias, backtest overfitting and non-normality." Journal of Portfolio Management, 
+p185  L31  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | pp. 94-107. Available at https://ssrn.com/abstract=2460551.
+p185  L32  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Harvey, C., Y. Liu, and H. Zhu (2016): ". . . and the cross-section of expected 
+p185  L33  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Financial Studies, Vol. 29, No. 1, pp. 5-68.
+p185  L34  DROP-ON  R6-body DROPPED                cand=0 cells=7 font=-                      h=    - | Lopez ́ de Prado, M. (2017): "Finance as an industrial science." Journal of Port
+p185  L35  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | ment, Vol. 43, No. 4, pp. 5-9. Available at http://www.iijournals.com/doi/pdfplu
+p185  L36  DROP-ON  numeric tick                   cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | .2017.43.4.005.
+p185  L37  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Luo, Y., M. Alvarez, S. Wang, J. Jussa, A. Wang, and G. Rohal (2014): "Seven sin
+p185  L38  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | investing." White paper, Deutsche Bank Markets Research, September 8.
+p185  L39  DROP-ON  R8 footnote                    cand=0 cells=2 font=-                      h=    - | Sarfati, O. (2015): "Backtesting: A practitioner's guide to assessing strategies
+p185  L40  DROP-ON  R6-body DROPPED                cand=0 cells=8 font=-                      h=    - | falls." Citi Equity Derivatives. CBOE 2015 Risk Management Conference. Available
+p185  L41  DROP-ON  R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | https://www.cboe.com/rmc/2015/olivier-pdf-Backtesting-Full.pdf.
+p186  L1   DROP-ON  R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | BIBLIOGRAPHY
+p186  L2   DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p186  L3   drop-off KEPT                           cand=0 cells=11 font=-                      h=    - | Bailey, D., J. Borwein, and M. Lopez ́ de Prado (2016): "Stock portfolio design 
+p186  L4   drop-off KEPT                           cand=0 cells=11 font=-                      h=    - | overfitting." Journal of Investment Management, Vol. 15, No. 1, pp. 1-13. Availa
+p186  L5   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | https://ssrn.com/abstract=2739335.
+p186  L6   drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | Bailey, D., J. Borwein, M. Lopez in ́ de Prado, A. Salehipour, and J. Zhu (2016)
+p186  L7   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | financial markets." Automated Trader, Vol. 39. Available at https://ssrn.com/abs
+p186  L8   drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | Bailey, D., J. Borwein, M. Lopez | 'The ́ | de Prado, and J. Zhu (2017b): | appe
+p186  L9   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | probability of backtest overfitting.'" Journal of Computational Finance (Risk Jo
+p186  L10  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 20, No. 4. Available at https://ssrn.com/abstract=2568435.
+p186  L11  drop-off KEPT                           cand=0 cells=9 font=-                      h=    - | Bailey, | D., | J. | Borwein, | A. Salehipour, | and M. Lopez | rank- ́ | de Pra
+p186  L12  drop-off KEPT                           cand=0 cells=7 font=-                      h=    - | ing of market forecasters." Journal of Investment Management, forthcoming. Avail
+p186  L13  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | https://ssrn.com/abstract=2944853.
+p186  L14  drop-off KEPT                           cand=0 cells=14 font=-                      h=    - | Bailey, D., J. Borwein, A. Salehipour, M. Lopez ́ de Prado, and J. Zhu (2015): "
+p186  L15  drop-off KEPT                           cand=0 cells=11 font=-                      h=    - | tools for demonstration of backtest overfitting." Working paper. Available at ht
+p186  L16  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | .com/abstract=2597421.
+p186  L17  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Bailey, D., S. Ger, M. Lopez ́ de Prado, A. Sim and, K. Wu (2016): "Statistical 
+p186  L18  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | performance." In Risk-Based and Factor Investing, Quantitative Finance Elsevier.
+p186  L19  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | ttps://ssrn.com/abstract=2507040.
+p186  L20  drop-off KEPT                           cand=0 cells=8 font=-                      h=    - | Bailey, D. and M. Lopez triple ́ de Prado (2014a): "Stop-outs under serial corre
+p186  L21  drop-off KEPT                           cand=0 cells=9 font=-                      h=    - | penance rule.'" Journal of Risk, Vol. 18, No. 2, pp. 61-93. Available at https:/
+p186  L22  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | abstract=2201302.
+p186  L23  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | Bailey, D. and M. Lopez serial ́ de Prado (2015): "Mathematical appendices to: '
+p186  L24  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | correlation.'" Journal of Risk, Vol. 18, No. 2. Available at https://ssrn.com/ab
+p186  L25  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Bailey, D., M. Lopez ́ de Prado, and E. del Pozo (2013): "The strategy approval 
+p186  L26  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | ratio indifference curve approach." Algorithmic Finance, Vol. 2, No. 1, pp. 99-1
+p186  L27  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | at https://ssrn.com/abstract=2003638.
+p186  L28  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | Carr, P. and M. Lopez ." ́ de Prado (2014): "Determining optimal trading rules w
+p186  L29  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Working paper. Available at https://ssrn.com/abstract=2658641.
+p186  L30  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. (2012a): "Portfolio oversight: An evolutionary approach." L
+p186  L31  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | University. Available at https://ssrn.com/abstract=2172468.
+p186  L32  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | Lopez ." ́ de Prado, M. (2012b): "The sharp razor: Performance evaluation with n
+p186  L33  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Lecture at Cornell University. Available at https://ssrn.com/abstract=2150879.
+p186  L34  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. (2013): "What to look for in a backtest." Lecture at Cornel
+p186  L35  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | at https://ssrn.com/abstract=2308682.
+p186  L36  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | Lopez Uni- ́ de Prado, M. (2014a): "Optimal trading rules without backtesting." 
+p186  L37  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | versity. Available at https://ssrn.com/abstract=2502613.
+p186  L38  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. (2014b): "Deflating the Sharpe ratio." Lecture at Cornell U
+p186  L39  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | at https://ssrn.com/abstract=2465675.
+p186  L40  drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | Lopez | ." ́ | de Prado, M. (2015a): | Practical Applications, Institutional
+p186  L41  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Investor Journals, Vol. 2, No. 3, pp. 1-3. Available at https://ssrn.com/abstrac
+p186  L42  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. (2015b): "The Future of empirical finance." Journal of Port
+p186  L43  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 41, No. 4, pp. 140-144. Available at https://ssrn.com/abstract=2609734.
+p186  L44  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | Lopez de Prado, M. (2015c): "Backtesting." Lecture at Cornell University. Availa
+p186  L45  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | com/abstract=2606462.
+p186  L46  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Lopez ́ de Prado, M. (2015d): "Recent trends in empirical finance." Journal of P
+p186  L47  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 41, No. 4, pp. 29-33. Available at https://ssrn.com/abstract=2638760.
+p236  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | BIBLIOGRAPHY
+p236  L2   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 14.4 The results from a 2-year backtest are that monthly returns have a mean of 
+p236  L3   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | and a standard deviation of 0.079%.
+p236  L4   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) What is the SR?
+p236  L5   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) What is the annualized SR?
+p236  L6   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 14.5 Following on exercise 1:
+p236  L7   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) The returns have a skewness of 0 and a kurtosis of 3. What is the PSR?
+p236  L8   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) The returns have a skewness of -2.448 and a kurtosis of 10.164. What is the
+p236  L9   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | PSR?
+p236  L10  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 14.6 What would be the PSR from 2.b, if the backtest had been for a length of 3 
+p236  L11  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 14.7 A 5-year backtest has an annualized SR of 2.5, computed on daily returns. T
+p236  L12  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | skewness is -3 and the kurtosis is 10.
+p236  L13  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) What is the PSR?
+p236  L14  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) In order to find that best result, 100 trials were conducted. The variance o
+p236  L15  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | the Sharpe ratios on those trials is 0.5. What is the DSR?
+p236  L16  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p236  L17  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Bailey, D. and M. Lopez ́ de Prado (2012): "The Sharpe ratio efficient frontier.
+p236  L18  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 15, No. 2, pp. 3-44.
+p236  L19  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Bailey, D. and M. Lopez ́ de Prado (2014): "The deflated Sharpe ratio: Correctin
+p236  L20  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | bias, backtest overfitting and non-normality." Journal of Portfolio Management, 
+p236  L21  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Available at https://ssrn.com/abstract=2460551.
+p236  L22  DROP-ON  R6-body DROPPED                cand=0 cells=12 font=-                      h=    - | Barra (1998): Risk Model Handbook: U.S. Equities, 1st ed. Barra. Available at ht
+p236  L23  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | .alacra.com/alacra/help/barra_handbook_US.pdf.
+p236  L24  DROP-ON  R6-body DROPPED                cand=0 cells=12 font=-                      h=    - | Barra (2013): MSCI BARRA Factor Indexes Methodology, 1st ed. MSCI Barra. Avail-
+p236  L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | able at https://www.msci.com/eqb/methodology/meth_docs/MSCI_Barra_Factor%20Indic
+p236  L26  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Methodology_Nov13.pdf.
+p236  L27  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | CFA Institute (2010): "Global investment performance standards." CFA Institute, 
+p236  L28  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | February. Available at https://www.gipsstandards.org/.
+p236  L29  DROP-ON  R6-body DROPPED                cand=0 cells=8 font=-                      h=    - | Zhang, Y. and S. Rachev (2004): "Risk attribution and portfolio performance meas
+p236  L30  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | An overview." Working paper, University of California, Santa Barbara. Available 
+p236  L31  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.318.7169.
+p236  L32  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p236  L33  drop-off R8 footnote                    cand=0 cells=11 font=-                      h=    - | American Statistical Society (1999): "Ethical guidelines for statistical practic
+p236  L34  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | http://www.amstat.org/committees/ethics/index.html.
+p236  L35  drop-off KEPT                           cand=0 cells=5 font=-                      h=    - | Bailey, D., J. | Borwein, M. Lopez | finan- ́ | de Prado, and J. Zhu (2014): | a
+p236  L36  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | cial charlatanism: The effects of backtest overfitting on out-of-sample performa
+p236  L37  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | of the American Mathematical Society, Vol. 61, No. 5. Available at http://ssrn.c
+p236  L38  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 2308659.
+p236  L39  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | Bailey, D., J. Borwein, M. Lopez over- ́ de Prado, and J. Zhu (2017): "The proba
+p236  L40  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | fitting." Journal of Computational Finance, Vol. 20, No. 4, pp. 39-70. Available
+p236  L41  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | com/abstract=2326253.
+p236  L42  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Bailey, D. and M. Lopez ́ de Prado (2012): "Balanced baskets: A new approach to 
+p236  L43  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | risks." Journal of Investment Strategies (Risk Journals), Vol. 1, No. 4, pp. 21-
+p236  L44  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Beddall, M. and K. Land (2013): "The hypothetical performance of CTAs." Working 
+p236  L45  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Capital Management.
+p305  L1   drop-off R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | ENTROPY FEATURES
+p305  L2   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) Partition the series into 1000 non-overlapping subsets of equal size (you
+p305  L3   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | may have to drop some observations at the beginning).
+p305  L4   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (d) Compute the entropy of each of the 1000 encoded subsets, using the plug-
+p305  L5   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | in method.
+p305  L6   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (e) Compute the entropy of each of the 1000 encoded subsets, using the Kon-
+p305  L7   drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  9.1 | toyiannis method, with a window size of 100.
+p305  L8   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (f) Compute the correlation between results 2.d and 2.e.
+p305  L9   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 18.3 Draw 1000 observations from a standard Normal distribution:
+p305  L10  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) What is the true entropy of this process?
+p305  L11  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Label the observations according to 8 quantiles.
+p305  L12  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) Estimate the entropy using the plug-in method.
+p305  L13  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (d) Estimate the entropy using the Kontoyiannis method:
+p305  L14  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (i) using a window size of 10.
+p305  L15  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (ii) using a window size of 100.
+p305  L16  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 18.4 Using the draws from exercise 3, {xt}t=1,...,1000:
+p305  L17  drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | (a) Compute yt = yt-1 + xt, where = .5, y0 = 0.
+p305  L18  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (b) Label {yt} the observations according to 8 quantiles.
+p305  L19  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (c) Estimate the entropy using the plug-in method.
+p305  L20  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (d) Estimate the entropy using the Kontoyiannis method
+p305  L21  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (i) using a window size of 10.
+p305  L22  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (ii) using a window size of 100.
+p305  L23  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 18.5 Suppose a portfolio of 10 holdings with equal dollar allocations.
+p305  L24  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | (a) The portion of the total risk contributed by the ith principal component is
+p305  L25  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | 1 , i = 1,..., 10. What is the portfolio's entropy?
+p305  L26  drop-off numeric tick                   cand=0 cells=1 font=TimesLTStd-Roman       h=  6.8 | 10
+p305  L27  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | (b) The portion of the total risk contributed by the ith principal component is
+p305  L28  drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | 1 - i , i = 1,..., 10. What is the portfolio's entropy?
+p305  L29  drop-off numeric tick                   cand=0 cells=1 font=TimesLTStd-Roman       h=  6.8 | 55
+p305  L30  drop-off KEPT                           cand=0 cells=11 font=-                      h=    - | (c) The portion of the total risk contributed by the ith principal compo-
+p305  L31  drop-off KEPT                           cand=0 cells=7 font=-                      h=    - | nent is 1 + (1 - )(1 - i ), i = 1,..., 10, ∈ [0, 1]. Plot the portolio's
+p305  L32  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | 10 | 55
+p305  L33  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | entropy as a function of .
+p305  L34  drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | REFERENCES
+p305  L35  DROP-ON  R6-body DROPPED                cand=0 cells=4 font=-                      h=    - | Bailey, D. and M. Lopez and ́ de Prado (2012): "Balanced baskets: A new approach
+p305  L36  DROP-ON  R8 footnote                    cand=0 cells=11 font=-                      h=    - | hedging risks." Journal of Investment Strategies, Vol. 1, No. 4, pp. 21-62. Avai
+p305  L37  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | https://ssrn.com/abstract=2066170.
+p305  L38  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Easley D., M. Kiefer, M. O'Hara, and J. Paperman (1996): "Liquidity,information,
+p305  L39  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | traded stocks." Journal of Finance, Vol. 51, No. 4, pp. 1405-1436.
+p305  L40  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Easley D., M. Kiefer and, M. O'Hara (1997): "The information content of the trad
+p305  L41  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Journal of Empirical Finance, Vol. 4, No. 2, pp. 159-185.
+p305  L42  DROP-ON  R6-body DROPPED                cand=0 cells=4 font=-                      h=    - | Easley, D., M. Lopez high ́ de Prado, and M. O'Hara (2012a): "Flow toxicity and 
+p305  L43  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | frequency world." Review of Financial Studies, Vol. 25, No. 5, pp. 1547-1493.
+p306  L1   DROP-ON  R1b margin                     cand=0 cells=1 font=TimesLTStd-Roman       h=  7.3 | BIBLIOGRAPHY
+p306  L2   DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | Easley, D., M. Lopez high ́ de Prado, and M. O'Hara (2012b): "The volume clock: 
+p306  L3   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | frequency paradigm." Journal of Portfolio Management, Vol. 39, No. 1, pp. 19-29.
+p306  L4   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Gao, Y., I. Kontoyiannis and E. Bienestock (2008): "Estimating the entropy of bi
+p306  L5   DROP-ON  R6-body DROPPED                cand=0 cells=9 font=-                      h=    - | Methodology, some theory and a simulation study." Working paper, arXiv. Availabl
+p306  L6   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | https://arxiv.org/abs/0802.4363v1.
+p306  L7   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Fiedor, Pawel (2014a): "Mutual information rate-based networks in financial mark
+p306  L8   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | paper, arXiv. Available at https://arxiv.org/abs/1401.2548.
+p306  L9   DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | Fiedor, Pawel (2014b): "Information-theoretic approach to lead-lag effect on fin
+p306  L10  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Working paper, arXiv. Available at https://arxiv.org/abs/1402.3820.
+p306  L11  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Fiedor, Pawel (2014c): "Causal non-linear financial networks." Working paper, ar
+p306  L12  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | https://arxiv.org/abs/1407.5020.
+p306  L13  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Hausser, J. and K. Strimmer (2009): "Entropy inference and the James-Stein estim
+p306  L14  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | tion to nonlinear gene association networks," Journal of Machine Learning Resear
+p306  L15  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | pp. 1469-1484. http://www.jmlr.org/papers/volume10/hausser09a/hausser09a.pdf.
+p306  L16  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Kolmogorov, A. (1965): "Three approaches to the quantitative definition of infor
+p306  L17  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | in Information Transmission, Vol. 1, No. 1, pp. 1-7.
+p306  L18  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Kontoyiannis, I. (1997): "The complexity and entropy of literary styles", NSF Te
+p306  L19  DROP-ON  numeric tick                   cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | 97.
+p306  L20  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Kontoyiannis (1998): "Asymptotically optimal lossy Lempel-Ziv coding," ISIT, Cam
+p306  L21  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | August 16-August 21.
+p306  L22  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | MacKay, D. (2003): Information Theory, Inference, and Learning Algorithms, 1st e
+p306  L23  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | University Press.
+p306  L24  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Meucci, A. (2009): "Managing diversification." Risk Magazine, Vol. 22, pp. 74-79
+p306  L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Norwich, K. (2003): Information, Sensation and Perception, 1st ed. Academic Pres
+p306  L26  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Ornstein, D.S. and B. Weiss (1993): "Entropy and data compression schemes." IEEE
+p306  L27  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | on Information Theory, Vol. 39, pp. 78-83.
+p306  L28  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Shannon, C. (1948): "A mathematical theory of communication." Bell System Techni
+p306  L29  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Vol. 27, No. 3, pp. 379-423.
+p306  L30  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Ziv, J. and A. Lempel (1978): "Compression of individual sequences via variable-
+p306  L31  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Transactions on Information Theory, Vol. 24, No. 5, pp. 530-536.
+p306  L32  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=TimesLTStd-Bold        h=  9.0 | BIBLIOGRAPHY
+p306  L33  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Easley, D., R. Engle, M. O'Hara, and L. Wu (2008): "Time-varying arrival rates o
+p306  L34  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | uninformed traders." Journal of Financial Econometrics, Vol. 6, No. 2, pp. 171-2
+p306  L35  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Easley, D., M. Lopez ́ de Prado, and M. O'Hara (2011): "The microstructure of th
+p306  L36  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Journal of Portfolio Management, Vol. 37, No. 2, pp. 118-128.
+p306  L37  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | Easley, D., M. Lopez ́ de Prado, and M. O'Hara (2012c): "Optimal execution horiz
+p306  L38  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Italic      h=  7.7 | Finance, Vol. 25, No. 3, pp. 640-672.
+p306  L39  drop-off R8 footnote                    cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Gnedenko, B. and I. Yelnik (2016): "Minimum entropy as a measure of effective di
+p306  L40  drop-off KEPT                           cand=0 cells=1 font=TimesLTStd-Roman       h=  7.7 | Working paper. Available at https://ssrn.com/abstract=2767549.

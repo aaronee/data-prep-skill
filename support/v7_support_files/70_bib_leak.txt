@@ -1,0 +1,22 @@
+################ trading  chunks=271
+chunks with >=3 author-initials-(year) matches: 0 of 271
+
+################ gatheral  chunks=159
+chunks with >=3 author-initials-(year) matches: 0 of 159
+
+################ prado  chunks=356
+chunks with >=3 author-initials-(year) matches: 13 of 356
+  c0038 pages=[46, 47] refs=10 years=10 path='EXERCISES' | (a) ML algorithms can manage investments without conflict of interests. Why? (b) Suppose that an ML algorithm 
+  c0039 pages=[47, 51] refs=3 years=3 path='BIBLIOGRAPHY' | Hauck, T. (2014): Scikit-Learn Cookbook, 1st ed. Packt Publishing. McNelis, P. (2005): Neural Networks in Fina
+  c0091 pages=[100, 102] refs=9 years=9 path='BIBLIOGRAPHY' | Efron, B. (1979): "Bootstrap methods: Another look at the jackknife." Annals of Statistics, Vol. 7, pp. 1-26. 
+  c0108 pages=[116, 120] refs=6 years=6 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | (i) The observed features are bootstrapped using the sequential method from Chapter 4. (ii) On each bootstrapp
+  c0119 pages=[128, 130] refs=3 years=3 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | EXERCISES Why is bagging based on random sampling with replacement? Would bagging still reduce a forecast's va
+  c0154 pages=[163, 164] refs=8 years=8 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | 9.4 From exercise 2, (a) Compute the Sharpe ratio of the resulting in-sample forecasts, from point 2.a. (b) Re
+  c0162 pages=[175, 178] refs=3 years=3 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | c̄l | c̄ | s current long bets at time t, and ct,s is the number of concurrent short bets at time t. 10.4 Usin
+  c0172 pages=[185, 186] refs=3 years=3 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | 11.1 An analyst fits an RF classifier where some of the features include seasonally adjusted employment data. 
+  c0173 pages=[186, 186] refs=11 years=12 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | Bailey, | D., | J. | Borwein, | A. Salehipour, | and M. Lopez | rank- ́ | de Prado (2017): | and ing of market
+  c0174 pages=[186, 187] refs=10 years=10 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | Lopez | ." ́ | de Prado, M. (2015a): | Practical Applications, Institutional Lopez ́ de Prado, M. (2015b): "Th
+  c0214 pages=[237, 237] refs=13 years=15 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | Benjamini, Y. and Y. Hochberg (1995): "Controlling the false discovery rate: A practical and powerful approach
+  c0215 pages=[237, 238] refs=5 years=8 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | Mertens, E. (2002): "Variance of the IID estimator in Lo (2002)." Working paper, University of Basel. Roulston
+  c0270 pages=[305, 308] refs=3 years=3 path='ADF Statistic on FFD(d) for Some of the Most Liqui' | (i) using a window size of 10. (ii) using a window size of 100. 18.5 Suppose a portfolio of 10 holdings with e
+

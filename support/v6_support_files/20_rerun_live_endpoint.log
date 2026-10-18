@@ -1,0 +1,11 @@
+chunks: 271 | suspect: 6 (median len 1715)
+  c0030: cache hit (content)
+  c0093: cache hit (content)
+  c0112: cache hit (content)
+  c0162: cache hit (content)
+  c0268: cache hit (legal)
+  c0270: cache hit (legal)
+
+kept 269/271 | dropped 2 -> /private/tmp/v6/llm/trading.dropped.jsonl
+filtered chunks -> /private/tmp/v6/llm/trading.chunks.filtered.json
+cache (6 entries) -> /private/tmp/v6/llm/trading.llmcache.json  [reruns are free]

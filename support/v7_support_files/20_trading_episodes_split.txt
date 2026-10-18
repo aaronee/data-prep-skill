@@ -1,0 +1,32 @@
+# marker = first R6-dropped line matching CHAPTER n / PART n / 'd.d Title'. 'from marker' is an UPPER bound for lost prose (heuristic).
+EP  1: trigger pg 2 'CONTENTS' -> released pg 3 by 'EXECUTIVE SUMMARY'
+       dropped: 7 lines / 624 chars; pages 2..2
+       marker: none found among dropped lines
+       after-release kept: pg 3 | DIRECTIONAL VOLATILITY TRADING
+       after-release kept: pg 3 | Directional investors can use options to replace a long position in the underlyi
+       after-release kept: pg 3 | enhance the yield of a position through call overwriting, or to provide protecti
+       after-release kept: pg 3 | declines. We evaluate these strategies and explain how to choose an appropriate 
+       after-release kept: pg 3 | and expiry. We show the difference between delta and the probability that an opt
+       after-release kept: pg 3 | expires in the money and explain when an investor should convert an option befor
+EP  2: trigger pg 67 'Index' -> released pg 68 by 'Volatility of index has floor at zero when there is very low correlation'
+       dropped: 4 lines / 21 chars; pages 67..67
+       marker: none found among dropped lines
+       after-release kept: pg 68 | If we take a second example of two equal weighted index members with the same vo
+       after-release kept: pg 68 | but with a negative 100% correlation (ie, as low as possible), then the index is
+       after-release kept: pg 68 | with zero volatility.
+       after-release kept: pg 68 | Figure 40. Stock 1 | Stock 2 (-100% correlation to stock 1)
+       after-release kept: pg 68 | 23 Vol = 30% 21
+       after-release kept: pg 68 | 22
+EP  3: trigger pg 68 'Index' -> released pg 68 by 'from index and'
+       dropped: 13 lines / 513 chars; pages 68..68
+       marker: none found among dropped lines
+       after-release kept: pg 68 | single-stock get an implied correlation surface from the implied volatility surf
+       after-release kept: pg 68 | volatility surfaces single-stock members. However, it is usually easiest to look
+       after-release kept: pg 68 | implied volatility to remove any strike dependency.
+       after-release kept: pg 68 | 2 0 σ 2 ≤ n 2 σ
+       after-release kept: pg 68 | where
+       after-release kept: pg 68 | σI = index volatility
+
+EPISODES = 3
+TOTAL R6-body lines = 24
+TOTAL R6-body chars = 1158

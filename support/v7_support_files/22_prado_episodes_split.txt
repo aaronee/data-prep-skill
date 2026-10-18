@@ -1,0 +1,223 @@
+# marker = first R6-dropped line matching CHAPTER n / PART n / 'd.d Title'. 'from marker' is an UPPER bound for lost prose (heuristic).
+EP  1: trigger pg 14 'Contents' -> released pg 14 by 'ix'
+       dropped: 21 lines / 570 chars; pages 14..14
+       marker: pg 14 '1.1 Motivation, 3'
+       before marker: 3 lines / 90 chars | from marker to release: 18 lines / 480 chars
+       after-release kept: pg 15 | x | CONTENTS
+       after-release kept: pg 15 | Essential Types of Financial Data,
+       after-release kept: pg 15 | 2.2.1 Fundamental Data, 23
+       after-release kept: pg 15 | 2.2.2 Market Data, 24
+       after-release kept: pg 15 | 2.2.3 Analytics, 25
+       after-release kept: pg 15 | 2.2.4 Alternative Data, 25
+EP  2: trigger pg 47 'REFERENCES' -> released pg 47 by 'BIBLIOGRAPHY'
+       dropped: 13 lines / 918 chars; pages 47..47
+       marker: none found among dropped lines
+       after-release kept: pg 47 | Abu-Mostafa, Y., M. Magdon-Ismail, and H. Lin (2012): Learning from Data, 1st ed
+       after-release kept: pg 47 | Akansu, A., S. Kulkarni, and D. Malioutov (2016): Financial Signal Processing an
+       after-release kept: pg 47 | ing, 1st ed. John Wiley & Sons-IEEE Press.
+       after-release kept: pg 47 | Aronson, D. and T. Masters (2013): Statistically Sound Machine Learning for Algo
+       after-release kept: pg 47 | of Financial Instruments: Developing Predictive-Model-Based Trading Systems Usin
+       after-release kept: pg 47 | 1st ed. CreateSpace Independent Publishing Platform.
+EP  3: trigger pg 68 'REFERENCES' -> released pg 70 by 'Labeling'
+       dropped: 21 lines / 1500 chars; pages 68..70
+       marker: pg 70 'CHAPTER 3'
+       before marker: 20 lines / 1491 chars | from marker to release: 1 lines / 9 chars
+       after-release kept: pg 70 | 3.1 MOTIVATION
+       after-release kept: pg 70 | In Chapter 2 we discussed how to produce a matrix X of financial features out of
+       after-release kept: pg 70 | unstructured dataset. Unsupervised learning algorithms can learn the patterns fr
+       after-release kept: pg 70 | that matrix X, for example whether it contains hierarchical clusters. On the oth
+       after-release kept: pg 70 | supervised learning algorithms require that the rows in X are associated with an
+       after-release kept: pg 70 | of labels or values y, so that those labels or values can be predicted on unseen
+EP  4: trigger pg 83 'BIBLIOGRAPHY' -> released pg 89 by 'LABEL'
+       dropped: 178 lines / 12674 chars; pages 83..89
+       marker: pg 86 'CHAPTER 4'
+       before marker: 83 lines / 6606 chars | from marker to release: 95 lines / 6068 chars
+       after-release kept: pg 89 | def mpSampleTW(t1,numCoEvents,molecule):
+       after-release kept: pg 89 | # Derive average uniqueness over the event's lifespan
+       after-release kept: pg 89 | wght=pd.Series(index=molecule)
+       after-release kept: pg 89 | for tIn,tOut in t1.loc[wght.index].iteritems():
+       after-release kept: pg 89 | wght.loc[tIn]=(1./numCoEvents.loc[tIn:tOut]).mean()
+       after-release kept: pg 89 | return wght
+EP  5: trigger pg 100 'REFERENCES' -> released pg 100 by 'BIBLIOGRAPHY'
+       dropped: 5 lines / 385 chars; pages 100..100
+       marker: none found among dropped lines
+       after-release kept: pg 100 | Sample weighting is a common topic in the ML learning literature. However the pr
+       after-release kept: pg 100 | tical problems discussed in this chapter are characteristic of investment applic
+       after-release kept: pg 100 | for which the academic literature is extremely scarce. Below are some publicatio
+       after-release kept: pg 100 | that tangentially touch some of the issues discussed in this chapter.
+       after-release kept: pg 100 | Efron, B. (1979): "Bootstrap methods: Another look at the jackknife." Annals of 
+       after-release kept: pg 100 | pp. 1-26.
+EP  6: trigger pg 116 'REFERENCES' -> released pg 116 by 'BIBLIOGRAPHY'
+       dropped: 6 lines / 463 chars; pages 116..116
+       marker: none found among dropped lines
+       after-release kept: pg 116 | Cavaliere, G., M. Nielsen, and A. Taylor (2017): "Quasi-maximum likelihood estim
+       after-release kept: pg 116 | Journal of Econometrics, Vol. 198, No. 1, pp. 165-188.
+       after-release kept: pg 117 | Johansen, S. and M. Nielsen (2012): "A necessary moment condition for the fracti
+       after-release kept: pg 117 | central limit theorem." Econometric Theory, Vol. 28, No. 3, pp. 671-679.
+       after-release kept: pg 117 | Johansen, S. and M. Nielsen (2012): "Likelihood inference for a fractionally coi
+       after-release kept: pg 117 | autoregressive model." Econometrica, Vol. 80, No. 6, pp. 2267-2732.
+EP  7: trigger pg 129 'REFERENCES' -> released pg 129 by 'BIBLIOGRAPHY'
+       dropped: 7 lines / 537 chars; pages 129..129
+       marker: none found among dropped lines
+       after-release kept: pg 129 | Gareth, J., D. Witten, T. Hastie, and R. Tibshirani (2013): An Introduction to S
+       after-release kept: pg 129 | Hackeling, G. (2014): Mastering Machine Learning with Scikit-Learn, 1st ed. Pack
+       after-release kept: pg 129 | Raschka, S. (2015): Python Machine Learning, 1st ed. Packt Publishing.
+       after-release kept: pg 130 | CHAPTER 7
+       after-release kept: pg 130 | Cross-Validation in Finance
+       after-release kept: pg 130 | 7.1 MOTIVATION
+EP  8: trigger pg 138 'BIBLIOGRAPHY' -> released pg 141 by 'BACKTESTING-IGNORE AT YOUR OWN PERIL'
+       dropped: 59 lines / 4417 chars; pages 138..141
+       marker: pg 140 'CHAPTER 8'
+       before marker: 12 lines / 897 chars | from marker to release: 47 lines / 3520 chars
+       after-release kept: pg 141 | "Backtesting is not a research tool. Feature importance is."
+       after-release kept: pg 141 | -Marcos Lopez ́ de Prado
+       after-release kept: pg 141 | Advances in Financial Machine Learning (2018)
+       after-release kept: pg 141 | 8.3 FEATURE IMPORTANCE WITH SUBSTITUTION EFFECTS
+       after-release kept: pg 141 | I find it useful to distinguish between feature importance methods based on whet
+       after-release kept: pg 141 | they are impacted by substitution effects. In this context, a substitution effec
+EP  9: trigger pg 154 'REFERENCES' -> released pg 156 by 'Cross-Validation'
+       dropped: 17 lines / 1179 chars; pages 154..156
+       marker: pg 156 'CHAPTER 9'
+       before marker: 15 lines / 1143 chars | from marker to release: 2 lines / 36 chars
+       after-release kept: pg 156 | 9.1 MOTIVATION
+       after-release kept: pg 156 | Hyper-parameter tuning is an essential step in fitting an ML algorithm. When thi
+       after-release kept: pg 156 | is not done properly, the algorithm is likely to overfit, and live performance w
+       after-release kept: pg 156 | disappoint. The ML literature places special attention on cross-validating any t
+       after-release kept: pg 156 | hyper-parameter. As we have seen in Chapter 7, cross-validation (CV) in finance 
+       after-release kept: pg 156 | an especially difficult problem, where solutions from other fields are likely to
+EP 10: trigger pg 163 'REFERENCES' -> released pg 164 by 'BIBLIOGRAPHY'
+       dropped: 2 lines / 167 chars; pages 163..163
+       marker: none found among dropped lines
+       after-release kept: pg 164 | Chapelle, O., V. Vapnik, O. Bousquet, and S. Mukherjee (2002): "Choosing multipl
+       after-release kept: pg 164 | support vector machines." Machine Learning, Vol. 46, pp. 131-159.
+       after-release kept: pg 164 | Chuong, B., C. Foo, and A. Ng (2008): "Efficient multiple hyperparameter learnin
+       after-release kept: pg 164 | linear models." Advances in Neural Information Processing Systems, Vol. 20. Avai
+       after-release kept: pg 164 | http://ai.stanford.edu/~chuongdo/papers/learn_reg.pdf.
+       after-release kept: pg 164 | Gorissen, D., K. Crombecq, I. Couckuyt, P. Demeester, and T. Dhaene (2010): "A s
+EP 11: trigger pg 176 'REFERENCES' -> released pg 176 by 'BIBLIOGRAPHY'
+       dropped: 4 lines / 354 chars; pages 176..176
+       marker: none found among dropped lines
+       after-release kept: pg 176 | Allwein, E., R. Schapire, and Y. Singer (2001): "Reducing multiclass to binary: 
+       after-release kept: pg 176 | for margin classifiers." Journal of Machine Learning Research, Vol. 1, pp. 113-1
+       after-release kept: pg 176 | Hastie, T. and R. Tibshirani (1998): "Classification by pairwise coupling." The 
+       after-release kept: pg 176 | Vol. 26, No. 1, pp. 451-471.
+       after-release kept: pg 176 | Refregier, P. and F. Vallet (1991): "Probabilistic approach for multiclass class
+       after-release kept: pg 178 | CHAPTER 11
+EP 12: trigger pg 185 'REFERENCES' -> released pg 186 by 'BIBLIOGRAPHY'
+       dropped: 16 lines / 1250 chars; pages 185..185
+       marker: none found among dropped lines
+       after-release kept: pg 186 | Bailey, D., J. Borwein, and M. Lopez ́ de Prado (2016): "Stock portfolio design 
+       after-release kept: pg 186 | overfitting." Journal of Investment Management, Vol. 15, No. 1, pp. 1-13. Availa
+       after-release kept: pg 186 | https://ssrn.com/abstract=2739335.
+       after-release kept: pg 186 | Bailey, D., J. Borwein, M. Lopez in ́ de Prado, A. Salehipour, and J. Zhu (2016)
+       after-release kept: pg 186 | financial markets." Automated Trader, Vol. 39. Available at https://ssrn.com/abs
+       after-release kept: pg 186 | Bailey, D., J. Borwein, M. Lopez | 'The ́ | de Prado, and J. Zhu (2017b): | appe
+EP 13: trigger pg 195 'REFERENCES' -> released pg 198 by '[i,Ti'
+       dropped: 92 lines / 6330 chars; pages 195..198
+       marker: pg 196 'CHAPTER 13'
+       before marker: 12 lines / 923 chars | from marker to release: 80 lines / 5407 chars
+       after-release kept: pg 198 | where E [.] and [.] are respectively the expected value and standard deviation o
+       after-release kept: pg 198 | i,Ti , conditional on trading rule R, over i = 1,...I. In other words, equation 
+       after-release kept: pg 198 | maximizes the Sharpe ratio of S on I opportunities over the space of alternative
+       after-release kept: pg 198 | rules R (see Bailey and Lopez the ́ de Prado [2012] for a definition and analysi
+       after-release kept: pg 198 | Sharpe ratio). Because we count with two variables to maximize SRR over a sample
+       after-release kept: pg 198 | of size I, it is easy to overfit R. A trivial overfit occurs when a pair (, ̄) t
+EP 14: trigger pg 220 'REFERENCES' -> released pg 224 by 'OF TARGET POSITIONS'
+       dropped: 89 lines / 6101 chars; pages 220..224
+       marker: pg 222 'CHAPTER 14'
+       before marker: 15 lines / 1162 chars | from marker to release: 74 lines / 4939 chars
+       after-release kept: pg 224 | # A bet takes place between flat positions or position flips
+       after-release kept: pg 224 | df0=tPos[tPos==0].index
+       after-release kept: pg 224 | df1=tPos.shift(1);df1=df1[df1!=0].index
+       after-release kept: pg 224 | bets=df0.intersection(df1) # flattening
+       after-release kept: pg 224 | df0=tPos.iloc[1:]*tPos.iloc[:-1].values
+       after-release kept: pg 224 | bets=bets.union(df0[df0<0].index).sort_values() # tPos flips
+EP 15: trigger pg 236 'REFERENCES' -> released pg 236 by 'BIBLIOGRAPHY'
+       dropped: 15 lines / 1065 chars; pages 236..236
+       marker: none found among dropped lines
+       after-release kept: pg 236 | http://www.amstat.org/committees/ethics/index.html.
+       after-release kept: pg 236 | Bailey, D., J. | Borwein, M. Lopez | finan- ́ | de Prado, and J. Zhu (2014): | a
+       after-release kept: pg 236 | cial charlatanism: The effects of backtest overfitting on out-of-sample performa
+       after-release kept: pg 236 | of the American Mathematical Society, Vol. 61, No. 5. Available at http://ssrn.c
+       after-release kept: pg 236 | Bailey, D., J. Borwein, M. Lopez over- ́ de Prado, and J. Zhu (2017): "The proba
+       after-release kept: pg 236 | com/abstract=2326253.
+EP 16: trigger pg 247 'REFERENCES' -> released pg 253 by '√'
+       dropped: 164 lines / 11619 chars; pages 247..253
+       marker: pg 248 'CHAPTER 16'
+       before marker: 11 lines / 850 chars | from marker to release: 153 lines / 10769 chars
+       after-release kept: pg 253 | d̃ | B → | R | d̃ | d̃[Di, | 2
+       after-release kept: pg 253 | of D, | :(Di, Dj) | ⊂ | ∈ [0, | N], | i,j | = | Dj] = | (dn,i - dn,j) | . | Note
+       after-release kept: pg 253 | n=1
+       after-release kept: pg 253 | the difference between distance metrics di,j and d̃ . Whereas di,j is defined on
+       after-release kept: pg 253 | i,j
+       after-release kept: pg 253 | vectors of X, d̃ is defined on column-vectors of D (a distance of distances). Th
+EP 17: trigger pg 272 'REFERENCES' -> released pg 274 by 'PART 4'
+       dropped: 42 lines / 3162 chars; pages 272..272
+       marker: none found among dropped lines
+       after-release kept: pg 274 | Useful Financial Features
+       after-release kept: pg 274 | Chapter 17: Structural Breaks, 249
+       after-release kept: pg 274 | Chapter 18: Entropy Features, 263
+       after-release kept: pg 274 | Chapter 19: Microstructural Features, 281
+       after-release kept: pg 276 | CHAPTER 17
+       after-release kept: pg 276 | Structural Breaks
+EP 18: trigger pg 288 'REFERENCES' -> released pg 290 by '∑'
+       dropped: 42 lines / 3058 chars; pages 288..290
+       marker: pg 290 'CHAPTER 18'
+       before marker: 21 lines / 1618 chars | from marker to release: 21 lines / 1440 chars
+       after-release kept: pg 290 | H[X] ≡ - p[x]log2p[x]
+       after-release kept: pg 291 | with 0 ≤ H[X] ≤ log2[‖A‖] where: p[x] is the probability of x; H[X] = 0 ⇔
+       after-release kept: pg 291 | ∃x|p[x] = 1; H[X] = log2[‖A‖] ⇔ p[x] = for all x; and ‖A‖ is the size of the
+       after-release kept: pg 291 | ‖A‖
+       after-release kept: pg 291 | set A. This can be interpreted as the probability weighted average of informatio
+       after-release kept: pg 291 | content in X, where the bits of information are measured as log2 1 . The rationa
+EP 19: trigger pg 305 'REFERENCES' -> released pg 306 by 'BIBLIOGRAPHY'
+       dropped: 37 lines / 2758 chars; pages 305..306
+       marker: none found among dropped lines
+       after-release kept: pg 306 | Easley, D., R. Engle, M. O'Hara, and L. Wu (2008): "Time-varying arrival rates o
+       after-release kept: pg 306 | uninformed traders." Journal of Financial Econometrics, Vol. 6, No. 2, pp. 171-2
+       after-release kept: pg 306 | Easley, D., M. Lopez ́ de Prado, and M. O'Hara (2011): "The microstructure of th
+       after-release kept: pg 306 | Journal of Portfolio Management, Vol. 37, No. 2, pp. 118-128.
+       after-release kept: pg 306 | Easley, D., M. Lopez ́ de Prado, and M. O'Hara (2012c): "Optimal execution horiz
+       after-release kept: pg 306 | Working paper. Available at https://ssrn.com/abstract=2767549.
+EP 20: trigger pg 325 'REFERENCES' -> released pg 328 by 'PART 5'
+       dropped: 70 lines / 5317 chars; pages 325..327
+       marker: none found among dropped lines
+       after-release kept: pg 328 | High-Performance
+       after-release kept: pg 328 | Computing Recipes
+       after-release kept: pg 328 | Chapter 20: Multiprocessing and Vectorization, 303
+       after-release kept: pg 328 | Chapter 21: Brute Force and Quantum Computers, 319
+       after-release kept: pg 328 | Chapter 22: High-Performance Computational Intelligence and Forecasting
+       after-release kept: pg 328 | Technologies, 329
+EP 21: trigger pg 344 'BIBLIOGRAPHY' -> released pg 348 by '∑H'
+       dropped: 75 lines / 4857 chars; pages 344..348
+       marker: pg 346 'CHAPTER 21'
+       before marker: 8 lines / 614 chars | from marker to release: 67 lines / 4243 chars
+       after-release kept: pg 348 | ' - []
+       after-release kept: pg 348 | SR [r] = √∑H h=1 h h h
+       after-release kept: pg 348 | ' hVh h
+       after-release kept: pg 348 | h=1
+       after-release kept: pg 348 | 21.4 THE PROBLEM
+       after-release kept: pg 348 | We would like to compute the optimal trading trajectory that solves the problem
+EP 22: trigger pg 355 'REFERENCES' -> released pg 356 by 'Technologies'
+       dropped: 14 lines / 941 chars; pages 355..356
+       marker: pg 356 'CHAPTER 22'
+       before marker: 11 lines / 873 chars | from marker to release: 3 lines / 68 chars
+       after-release kept: pg 356 | Kesheng Wu and Horst D. Simon
+       after-release kept: pg 356 | 22.1 MOTIVATION
+       after-release kept: pg 356 | This chapter provides an introduction to the Computational Intelligence and Fore
+       after-release kept: pg 356 | ing Technologies (CIFT) project at Lawrence Berkeley National Laboratory (LBNL).
+       after-release kept: pg 356 | The main objective of CIFT is to promote the use of high-performance computing
+       after-release kept: pg 356 | (HPC) tools and techniques for analysis of streaming data. After noticing the da
+EP 23: trigger pg 377 'REFERENCES' -> released pg 380 by 'Index'
+       dropped: 75 lines / 5534 chars; pages 377..379
+       marker: none found among dropped lines
+       after-release kept: pg 380 | Page numbers followed by f or t refer to figure or table, respectively.
+       after-release kept: pg 380 | Absolute return attribution method, numerical example of, 231-233, 232f,
+       after-release kept: pg 380 | 68-69 233f, 233t
+       after-release kept: pg 380 | Accounting data, 23, 169 practical problems in, 222-223, 223f
+       after-release kept: pg 380 | Accuracy quasi-diagonalization in, 224, 229,
+       after-release kept: pg 380 | binary classification problems and, 233f
+
+EPISODES = 23
+TOTAL R6-body lines = 1064
+TOTAL R6-body chars = 75156

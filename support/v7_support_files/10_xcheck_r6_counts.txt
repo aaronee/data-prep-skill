@@ -1,0 +1,3 @@
+trading removed.jsonl R6-body lines = 24
+gatheral removed.jsonl R6-body lines = 494
+prado removed.jsonl R6-body lines = 1064

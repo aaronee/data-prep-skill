@@ -1,0 +1,6 @@
+chunk=c0030  type=content  keep=True  summary='Analysis of S&P 500 call overwriting performance relative to total return, highlighting underperformance in low-volatility bull markets.'
+chunk=c0093  type=content  keep=True  summary='Describes four instruments for trading dispersion: straddles, variance swaps, volatility swaps, and gamma swaps, detailing their liquidity, risks, and practicality.'
+chunk=c0112  type=content  keep=True  summary='Discusses back-testing criteria for hedging strategies, argues against comparing variance swaps to puts, and explains how variable annuities impact long-term volatility.'
+chunk=c0162  type=content  keep=True  summary='Mathematical derivation of implied jump volatility and expected daily return using normal distribution integrals.'
+chunk=c0268  type=legal  keep=False  summary='Standard legal disclaimers and liability exclusions regarding the accuracy of information and the nature of the report as an offer.'
+chunk=c0270  type=legal  keep=False  summary='Legal disclaimer regarding US recipients, regulatory compliance, and contact information for Santander Investment Bolsa offices.'

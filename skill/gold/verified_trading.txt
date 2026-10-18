@@ -1,0 +1,20 @@
+Who receives enquiries from US investors in this report? | Santander Investment Securities | 1 | c0000
+Why is there no exposure to near-term volatility before a forward starting option begins? | zero theta | 6 | c0006
+Which four models are examined to show the link between credit spreads and implied volatility? | put vs CDS | 9 | c0012
+In the Black-Scholes proof, what makes the call's ITM probability smaller than its delta? | N(d2) | 15 | c0018
+What feature do most exchanges have so that an investor who forgets to give notice is protected? | hurdle for automatic exercise | 19 | c0024
+How many distinct market periods have existed since the BXM index was created? | seven distinct periods | 24 | c0030
+At what level is portfolio protection usually bought? | index level | 27 | c0036
+Which strategy effectively overlays call overwriting on a long put position? | calendar collar | 31 | c0042
+Why is a long forward position described as short dividends? | ex date | 39 | c0048
+By what factor do delta-hedging profits multiply when volatility is doubled? | square of return | 44 | c0054
+Which index superseded the VDAX by using a variance swap calculation? | V1X index | 50 | c0060
+In which variance-swap variant is exposure limited to days when spot stays between two barriers? | corridor variance swaps | 53 | c0066
+With what weighting is a variance swap hedged by a portfolio of options? | 1/K2 | 57 | c0072
+What does the quoted price of an option on variance swap correspond to at inception? | implied variance | 62 | c0078
+Which measure is a point or two higher than the actual implied correlation, per the report? | reasonable approximation | 69 | c0084
+How many correlation points does equal-weighted correlation typically trade below market value-weighted correlation by? | c5 correlation points | 72 | c0090
+In the dispersion greeks tables, which variant needs a smaller long single-stock leg than the index leg? | theta-weighted dispersion | 76 | c0096
+Why do corporates raise the payout ratio in a downturn instead of cutting dividends? | embarrassment of cutting a dividend | 81 | c0102
+What should volatility selling remain, on average, despite the demand for hedging? | profitable strategy | 86 | c0108
+How must the variable-annuity protection position be hedged given that implied volatility liquidity only extends 3-5 years? | dynamically hedged | 90 | c0114

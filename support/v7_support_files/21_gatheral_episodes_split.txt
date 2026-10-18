@@ -1,0 +1,34 @@
+# marker = first R6-dropped line matching CHAPTER n / PART n / 'd.d Title'. 'from marker' is an UPPER bound for lost prose (heuristic).
+EP  1: trigger pg 10 'Contents' -> released pg 16 by 'Figures'
+       dropped: 190 lines / 4858 chars; pages 10..14
+       marker: pg 10 'CHAPTER 1'
+       before marker: 5 lines / 59 chars | from marker to release: 185 lines / 4799 chars
+       after-release kept: pg 16 | 1.1 SPX daily log returns from December 31, 1984, to December
+       after-release kept: pg 16 | 31, | 2004. Note the -22.9% return on October 19, 1987! | 2
+       after-release kept: pg 16 | 1.2 Frequency distribution of (77 years of) SPX daily log returns
+       after-release kept: pg 16 | compared with the normal distribution. Although the -22.9%
+       after-release kept: pg 16 | return on October 19, 1987, is not directly visible, the x-axis
+       after-release kept: pg 16 | has been extended to the left to accommodate it! | 3
+EP  2: trigger pg 30 'Acknowledgments' -> released pg 35 by '√vt'
+       dropped: 101 lines / 6475 chars; pages 30..35
+       marker: pg 32 'CHAPTER 1'
+       before marker: 28 lines / 1853 chars | from marker to release: 73 lines / 4622 chars
+       after-release kept: pg 35 | dSt = μt St dt + | St dZ1 | (1.1)
+       after-release kept: pg 35 | √vtdZ2
+       after-release kept: pg 35 | dvt = α(St, vt, t) dt + ηβ(St, vt, t) | (1.2)
+       after-release kept: pg 35 | with
+       after-release kept: pg 35 | dZ1 dZ2- = ρ dt
+       after-release kept: pg 35 | where μt is the (deterministic) instantaneous drift of stock price returns, η
+EP  3: trigger pg 194 'Bibliography' -> released pg 200 by 'Index'
+       dropped: 203 lines / 11198 chars; pages 194..200
+       marker: none found among dropped lines
+       after-release kept: pg 200 | At-the-money (ATM) SPX variance
+       after-release kept: pg 200 | levels/skews, 39f
+       after-release kept: pg 200 | Avellaneda, Marco, 114, 163
+       after-release kept: pg 200 | Bakshi, Gurdip, 66, 163
+       after-release kept: pg 200 | Bakshi-Cao-Chen (BCC) parameters, 40, 66,
+       after-release kept: pg 200 | 67f, 70f, 146, 152, 154f
+
+EPISODES = 3
+TOTAL R6-body lines = 494
+TOTAL R6-body chars = 22531

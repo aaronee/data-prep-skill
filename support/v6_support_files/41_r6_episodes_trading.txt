@@ -1,0 +1,7 @@
+R6 episodes: 3  (trigger = heading line that set drop_until_heading; release = next R6-visible heading, which is KEPT; removed = R6-body lines dropped in episode)
+
+EP  1: trigger pg   2 'CONTENTS'               -> released at pg 3 by 'EXECUTIVE SUMMARY' ; removed 7 lines
+EP  2: trigger pg  67 'Index'                  -> released at pg 68 by 'Volatility of index has floor at zero when there is very low correlation' ; removed 4 lines
+EP  3: trigger pg  68 'Index'                  -> released at pg 68 by 'from index and' ; removed 13 lines
+
+total R6-body lines attributed to episodes: 24

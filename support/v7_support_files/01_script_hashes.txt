@@ -1,0 +1,5 @@
+c31e0fc32cafddaf  /tmp/v7/scripts/bib_leak.py
+f6c631d9e7968cf1  /tmp/v7/scripts/gatheral_probes.py
+3942e1569947ad2c  /tmp/v7/scripts/gold_page_check.py
+36fa7af0eec41ae9  /tmp/v7/scripts/r6_diag.py
+f4da4c29727aa55c  /tmp/v7/scripts/v7common.py

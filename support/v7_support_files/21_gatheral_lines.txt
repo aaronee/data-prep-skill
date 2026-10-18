@@ -1,0 +1,244 @@
+# body_h (median item height) = 9.88; heading test = font name contains 'Bold' OR height >= 12.35
+# cols: page line state outcome cand(1=looks like heading) cells font height | text[:80]
+p24   L1   drop-off KEPT                           cand=1 cells=1 font=Helvetica-Compressed   h= 20.1 | Foreword
+p24   L2   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | I
+p24   L3   drop-off KEPT                           cand=0 cells=10 font=-                      h=    - | Jim has given round six of these lectures on volatility modeling at the
+p24   L4   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Courant Institute of New York University, slowly purifying these notes. I
+p24   L5   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | witnessed and became addicted to their slow maturation from the first time
+p24   L6   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | he jotted down these equations during the winter of 2000, to the most recent
+p24   L7   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | one in the spring of 2006. It was similar to the progressive distillation of
+p24   L8   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | good alcohol: exactly seven times; at every new stage you can see the text
+p24   L9   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | gaining in crispness, clarity, and concision. Like Jim's lectures, these chapter
+p24   L10  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | are to the point, with maximal simplicity though never less than warranted
+p24   L11  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | by the topic, devoid of fluff and side distractions, delivering the exact subjec
+p24   L12  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | without any attempt to boast his (extraordinary) technical skills.
+p24   L13  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | The class became popular. By the second year we got yelled at by the
+p24   L14  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | university staff because too many nonpaying practitioners showed up to the
+p24   L15  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | lecture, depriving the (paying) students of seats. By the third or fourth year,
+p24   L16  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the material of this book became a quite standard text, with Jim G.'s lecture
+p24   L17  drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | notes circulating among instructors. His treatment of local volatility and
+p24   L18  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | stochastic models became the standard.
+p24   L19  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | As colecturers, Jim G. and I agreed to attend each other's sessions, but
+p24   L20  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | as more than just spectators-turning out to be colecturers in the literal
+p24   L21  drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | sense, that is, synchronously. He and I heckled each other, making sure
+p24   L22  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | that not a single point went undisputed, to the point of other members of
+p24   L23  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the faculty coming to attend this strange class with disputatious instructors
+p24   L24  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | trying to tear apart each other's statements, looking for the smallest hole in
+p24   L25  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the arguments. Nor were the arguments always dispassionate: students soon
+p24   L26  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | got to learn from Jim my habit of ordering white wine with read meat; in
+p24   L27  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | return, I pointed out clear deficiencies in his French, which he pronounces
+p24   L28  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | with a sometimes incomprehensible Scottish accent. I realized the value of
+p24   L29  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the course when I started lecturing at other universities. The contrast was
+p24   L30  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | such that I had to return very quickly.
+p24   L31  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | II
+p24   L32  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | The difference between Jim Gatheral and other members of the quant
+p24   L33  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | community lies in the following: To many, models provide a representation
+p24   L34  drop-off KEPT                           cand=0 cells=1 font=Helvetica-Compressed   h=  9.2 | xxi
+p25   L1   drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | xxii | FOREWORD
+p25   L2   drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | of asset price dynamics, under some constraints. Business school finance
+p25   L3   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | professors have a tendency to believe (for some reason) that these provide
+p25   L4   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | a top-down statistical mapping of reality. This interpretation is also shared
+p25   L5   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | by many of those who have not been exposed to activity of risk-taking, or
+p25   L6   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the constraints of empirical reality.
+p25   L7   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | But not to Jim G. who has both traded and led a career as a quant. To
+p25   L8   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | him, these stochastic volatility models cannot make such claims, or should
+p25   L9   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | not make such claims. They are not to be deemed a top-down dogmatic
+p25   L10  drop-off KEPT                           cand=0 cells=9 font=-                      h=    - | representation of reality, rather a tool to insure that all instruments are
+p25   L11  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | consistently priced with respect to each other-that is, to satisfy the golden
+p25   L12  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | rule of absence of arbitrage. An operator should not be capable of deriving
+p25   L13  drop-off KEPT                           cand=0 cells=1 font=Sabon-Italic           h=  9.9 | a profit in replicating a financial instrument by using a combination of other
+p25   L14  drop-off KEPT                           cand=0 cells=1 font=Sabon-Italic           h=  9.9 | ones. A model should do the job of insuring maximal consistency between,
+p25   L15  drop-off KEPT                           cand=0 cells=9 font=-                      h=    - | say, a European digital option of a given maturity, and a call price of
+p25   L16  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | another one. The best model is the one that satisfies such constraints while
+p25   L17  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | making minimal claims about the true probability distribution of the world.
+p25   L18  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | I recently discovered the strength of his thinking as follows. When, by
+p25   L19  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the fifth or so lecture series I realized that the world needed Mandelbrot-style
+p25   L20  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | power-law or scalable distributions, I found that the models he proposed of
+p25   L21  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | fudging the volatility surface was compatible with these models. How? You
+p25   L22  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | just need to raise volatilities of out-of-the-money options in a specific way,
+p25   L23  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | and the volatility surface becomes consistent with the scalable power laws.
+p25   L24  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Jim Gatheral is a natural and intuitive mathematician; attending his lec-
+p25   L25  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | ture you can watch this effortless virtuosity that the Italians call sprezzatura
+p25   L26  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | I see more of it in this book, as his awful handwriting on the blackboard is
+p25   L27  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | greatly enhanced by the aesthetics of LaTeX.
+p25   L28  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | -Nassim Nicholas Taleb1
+p25   L29  drop-off KEPT                           cand=0 cells=1 font=Sabon-Italic           h=  9.9 | June, 2006
+p25   L30  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h= 10.3 | 1Author, Dynamic Hedging and Fooled by Randomness.
+p26   L1   drop-off KEPT                           cand=1 cells=1 font=Helvetica-Compressed   h= 20.1 | Preface
+p26   L2   drop-off KEPT                           cand=0 cells=8 font=-                      h=    - | E ver since the advent of the Black-Scholes option pricing formula, the
+p26   L3   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | study of implied volatility has become a central preoccupation for both
+p26   L4   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | academics and practitioners. As is well known, actual option prices rarely
+p26   L5   drop-off KEPT                           cand=0 cells=11 font=-                      h=    - | if ever conform to the predictions of the formula because the idealized
+p26   L6   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | assumptions required for it to hold don't apply in the real world. Conse-
+p26   L7   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | quently, implied volatility (the volatility input to the Black-Scholes formula
+p26   L8   drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | that generates the market price) in general depends on the strike and the
+p26   L9   drop-off KEPT                           cand=0 cells=5 font=-                      h=    - | expiration of the option. The collection of all such implied volatilities is
+p26   L10  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | known as the volatility surface.
+p26   L11  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | This book concerns itself with understanding the volatility surface; that
+p26   L12  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | is, why options are priced as they are and what it is that analysis of stock
+p26   L13  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | returns can tell as about how options ought to be priced.
+p26   L14  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Pricing is consistently emphasized over hedging, although hedging and
+p26   L15  drop-off KEPT                           cand=0 cells=10 font=-                      h=    - | replication arguments are often used to generate results. Partly, that's
+p26   L16  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | because pricing is key: How a claim is hedged affects only the width of the
+p26   L17  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | resulting distribution of returns and not the expectation. On average, no
+p26   L18  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | amount of clever hedging can make up for an initial mispricing. Partly, it's
+p26   L19  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | because hedging in practice can be complicated and even more of an art
+p26   L20  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | than pricing.
+p26   L21  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Throughout the book, the importance of examining different dynamical
+p26   L22  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | assumptions is stressed as is the importance of building intuition in general.
+p26   L23  drop-off KEPT                           cand=0 cells=4 font=-                      h=    - | The aim of the book is not to just present results but rather to provide
+p26   L24  drop-off KEPT                           cand=0 cells=7 font=-                      h=    - | the reader with ways of thinking about and solving practical problems
+p26   L25  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | that should have many other areas of application. By the end of the book,
+p26   L26  drop-off KEPT                           cand=0 cells=8 font=-                      h=    - | the reader should have gained substantial intuition for the latest theory
+p26   L27  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | underlying options pricing as well as some feel for the history and practice
+p26   L28  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | of trading in the equity derivatives markets. With luck, the reader will also
+p26   L29  drop-off KEPT                           cand=0 cells=5 font=-                      h=    - | be infected with some of the excitement that continues to surround the
+p26   L30  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | trading, marketing, pricing, hedging, and risk management of derivatives.
+p26   L31  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | As its title implies, this book is written by a practitioner for practitioners.
+p26   L32  drop-off KEPT                           cand=0 cells=10 font=-                      h=    - | Amongst other things, it contains a detailed derivation of the Heston
+p26   L33  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | model and explanations of many other popular models such as SVJ, SVJJ,
+p26   L34  drop-off KEPT                           cand=0 cells=6 font=-                      h=    - | SABR, and CreditGrades. The reader will also find explanations of the
+p26   L35  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | characteristics of various types of exotic options from the humble barrier
+p26   L36  drop-off KEPT                           cand=0 cells=1 font=Helvetica-Compressed   h=  9.2 | xxiii
+p30   L1   drop-off R6 TRIGGER (heading dropped)   cand=1 cells=1 font=Helvetica-Compressed   h= 20.1 | Acknowledgments
+p30   L2   DROP-ON  R6-body DROPPED                cand=0 cells=12 font=-                      h=    - | I am grateful to more people than I could possibly list here for their
+p30   L3   DROP-ON  R6-body DROPPED                cand=0 cells=6 font=-                      h=    - | help, support and encouragement over the years. First of all, I owe a
+p30   L4   DROP-ON  R6-body DROPPED                cand=0 cells=7 font=-                      h=    - | debt of gratitude to my present and former colleagues, in particular to
+p30   L5   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | my Merrill Lynch quant colleagues Jining Han, Chiyan Luo and Yonathan
+p30   L6   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Epelbaum. Second, like all practitioners, my education is partly thanks to
+p30   L7   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | those academics and practitioners who openly published their work. Since
+p30   L8   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the bibliography is not meant to be a complete list of references but rather
+p30   L9   DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | just a list of sources for the present text, there are many people who have
+p30   L10  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | made great contributions to the field and strongly influenced my work that
+p30   L11  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | are not explicitly mentioned or referenced. To these people, please be sure I
+p30   L12  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | am grateful to all of you.
+p30   L13  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | There are a few people who had a much more direct hand in this project
+p30   L14  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | to whom explicit thanks are due here: to Nassim Taleb, my co-lecturer at
+p30   L15  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Courant who through good-natured heckling helped shape the contents of
+p30   L16  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | my lectures, to Peter Carr, Bruno Dupire and Marco Avellaneda for helpful
+p30   L17  DROP-ON  R6-body DROPPED                cand=0 cells=4 font=-                      h=    - | and insightful conversations and finally to Neil Chriss for sharing some
+p30   L18  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | good writing tips and for inviting me to lecture at Courant in the first place.
+p30   L19  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | I am absolutely indebted to Peter Friz, my one-time teaching assistant at
+p30   L20  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | NYU and now lecturer at the Statistical Laboratory in Cambridge; Peter
+p30   L21  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | painstakingly read my lectures notes, correcting them often and suggesting
+p30   L22  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | improvements. Without him, there is no doubt that there would have been
+p30   L23  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | no book. My thanks are also due to him and to Bruno Dupire for reading
+p30   L24  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | a late draft of the manuscript and making useful suggestions. I also wish to
+p30   L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | thank my editors at Wiley: Pamela Van Giessen, Jennifer MacDonald and
+p30   L26  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Todd Tedesco for their help. Remaining errors are of course mine.
+p30   L27  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Last but by no means least, I am deeply grateful to Yukiko and Ayako
+p30   L28  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | for putting up with me.
+p30   L29  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Helvetica-Compressed   h=  9.2 | xxvii
+p32   L1   DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | CHAPTER 1
+p32   L2   DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Stochastic Volatility
+p32   L3   DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | and Local Volatility
+p32   L4   DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | I n this chapter, we begin our exploration of the volatility surface by intro-
+p32   L5   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | ducing stochastic volatility-the notion that volatility varies in a random
+p32   L6   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | fashion. Local variance is then shown to be a conditional expectation of
+p32   L7   DROP-ON  R6-body DROPPED                cand=0 cells=5 font=-                      h=    - | the instantaneous variance so that various quantities of interest (such as
+p32   L8   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | option prices) may sometimes be computed as though future volatility were
+p32   L9   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | deterministic rather than stochastic.
+p32   L10  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Helvetica-Compressed   h= 10.2 | STOCHASTIC VOLATILITY
+p32   L11  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | That it might make sense to model volatility as a random variable should
+p32   L12  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | be clear to the most casual observer of equity markets. To be convinced,
+p32   L13  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | one need only recall the stock market crash of October 1987. Nevertheless,
+p32   L14  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | given the success of the Black-Scholes model in parsimoniously describing
+p32   L15  DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | market options prices, it's not immediately obvious what the benefits of
+p32   L16  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | making such a modeling choice might be.
+p32   L17  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | Stochastic volatility (SV) models are useful because they explain in a
+p32   L18  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | self-consistent way why options with different strikes and expirations have
+p32   L19  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | different Black-Scholes implied volatilities-that is, the ''volatility smile.''
+p32   L20  DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | Moreover, unlike alternative models that can fit the smile (such as local
+p32   L21  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | volatility models, for example), SV models assume realistic dynamics for
+p32   L22  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the underlying. Although SV price processes are sometimes accused of being
+p32   L23  DROP-ON  R6-body DROPPED                cand=0 cells=5 font=-                      h=    - | ad hoc, on the contrary, they can be viewed as arising from Brownian
+p32   L24  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | motion subordinated to a random clock. This clock time, often referred to
+p32   L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | as trading time, may be identified with the volume of trades or the frequency
+p32   L26  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | of trading (Clark 1973); the idea is that as trading activity fluctuates, so
+p32   L27  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | does volatility.
+p33   L1   DROP-ON  R1 recurring                   cand=0 cells=1 font=Helvetica-Condensed    h=  8.6 | THE VOLATILITY SURFACE
+p33   L2   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h= 10.6 | 0.1
+p33   L3   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h= 10.6 | 0.0
+p33   L4   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h= 10.6 | 0.1
+p33   L5   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h= 10.6 | 0.2
+p33   L6   DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | FIGURE 1.1 SPX daily log returns from December 31, 1984, to December 31,
+p33   L7   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.2 | 2004. Note the -22.9% return on October 19, 1987!
+p33   L8   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | From a hedging perspective, traders who use the Black-Scholes model
+p33   L9   DROP-ON  R6-body DROPPED                cand=0 cells=10 font=-                      h=    - | must continuously change the volatility assumption in order to match
+p33   L10  DROP-ON  R6-body DROPPED                cand=0 cells=4 font=-                      h=    - | market prices. Their hedge ratios change accordingly in an uncontrolled
+p33   L11  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | way: SV models bring some order into this chaos.
+p33   L12  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | A practical point that is more pertinent to a recurring theme of this
+p33   L13  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | book is that the prices of exotic options given by models based on Black-
+p33   L14  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Scholes assumptions can be wildly wrong and dealers in such options are
+p33   L15  DROP-ON  R6-body DROPPED                cand=0 cells=8 font=-                      h=    - | motivated to find models that can take the volatility smile into account
+p33   L16  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | when pricing these.
+p33   L17  DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | In Figure 1.1, we plot the log returns of SPX over a 15-year period;
+p33   L18  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | we see that large moves follow large moves and small moves follow small
+p33   L19  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | moves (so-called ''volatility clustering''). In Figure 1.2, we plot the frequenc
+p33   L20  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | distribution of SPX log returns over the 77-year period from 1928 to 2005.
+p33   L21  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | We see that this distribution is highly peaked and fat-tailed relative to the
+p33   L22  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | normal distribution. The Q-Q plot in Figure 1.3 shows just how extreme
+p33   L23  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | the tails of the empirical distribution of returns are relative to the normal
+p33   L24  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | distribution. (This plot would be a straight line if the empirical distribution
+p33   L25  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | were normal.)
+p33   L26  DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | Fat tails and the high central peak are characteristics of mixtures of
+p33   L27  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | distributions with different variances. This motivates us to model variance
+p33   L28  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | as a random variable. The volatility clustering feature implies that volatility
+p33   L29  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | (or variance) is auto-correlated. In the model, this is a consequence of the
+p33   L30  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | mean reversion of volatility .∗
+p33   L31  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | ∗Note that simple jump-diffusion models do not have this property. After a jump,
+p33   L32  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  8.9 | the stock price volatility does not change.
+p34   L1   DROP-ON  R1b margin                     cand=0 cells=1 font=Helvetica-Condensed    h=  8.6 | Stochastic Volatility and Local Volatility
+p34   L2   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  9.3 | 70
+p34   L3   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  9.3 | 60
+p34   L4   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  9.3 | 50
+p34   L5   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  9.3 | 40
+p34   L6   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  9.3 | 30
+p34   L7   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  9.3 | 20
+p34   L8   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  9.3 | 10
+p34   L9   DROP-ON  numeric tick                   cand=0 cells=1 font=Helvetica-Condensed    h=  4.2 | 0
+p34   L10  DROP-ON  R6-body DROPPED                cand=0 cells=7 font=-                      h=    - | 0.20 0.15 0.10 0.05 0.00 0.05 0.10
+p34   L11  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | FIGURE 1.2 Frequency distribution of (77 years of) SPX daily log returns compare
+p34   L12  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.2 | with the normal distribution. Although the -22.9% return on October 19, 1987, is
+p34   L13  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  8.9 | not directly visible, the x-axis has been extended to the left to accommodate it
+p34   L14  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | FIGURE 1.3 Q-Q plot of SPX daily log returns compared with the normal
+p34   L15  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  8.9 | distribution. Note the extreme tails.
+p35   L1   DROP-ON  R1 recurring                   cand=0 cells=1 font=Helvetica-Condensed    h=  8.6 | THE VOLATILITY SURFACE
+p35   L2   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | There is a simple economic argument that justifies the mean reversion
+p35   L3   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | of volatility. (The same argument is used to justify the mean reversion of
+p35   L4   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | interest rates.) Consider the distribution of the volatility of IBM in 100 years
+p35   L5   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | time. If volatility were not mean reverting (i.e., if the distribution of volati
+p35   L6   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | were not stable), the probability of the volatility of IBM being between 1%
+p35   L7   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | and 100% would be rather low. Since we believe that it is overwhelmingly
+p35   L8   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | likely that the volatility of IBM would in fact lie in that range, we deduce
+p35   L9   DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | that volatility must be mean reverting.
+p35   L10  DROP-ON  R6-body DROPPED                cand=0 cells=8 font=-                      h=    - | Having motivated the description of variance as a mean reverting
+p35   L11  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | random variable, we are now ready to derive the valuation equation.
+p35   L12  DROP-ON  R6-body DROPPED                cand=0 cells=3 font=-                      h=    - | Derivation of the Valuation Equation
+p35   L13  DROP-ON  R6-body DROPPED                cand=0 cells=2 font=-                      h=    - | In this section, we follow Wilmott (2000) closely. Suppose that the stock
+p35   L14  DROP-ON  R6-body DROPPED                cand=0 cells=1 font=Sabon-Roman            h=  9.9 | price S and its variance v satisfy the following SDEs:
+p35   L15  DROP-ON  R6 RELEASE (heading kept)      cand=1 cells=1 font=MTSY                   h= 18.0 | √vt
+p35   L16  drop-off KEPT                           cand=0 cells=3 font=-                      h=    - | dSt = μt St dt + | St dZ1 | (1.1)
+p35   L17  drop-off KEPT                           cand=1 cells=1 font=MTSY                   h= 18.0 | √vtdZ2
+p35   L18  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | dvt = α(St, vt, t) dt + ηβ(St, vt, t) | (1.2)
+p35   L19  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | with
+p35   L20  drop-off KEPT                           cand=0 cells=1 font=Sabon-Italic           h= 12.0 | dZ1 dZ2- = ρ dt
+p35   L21  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h= 10.8 | where μt is the (deterministic) instantaneous drift of stock price returns, η
+p35   L22  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | is the volatility of volatility and ρ is the correlation between random stock
+p35   L23  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h= 10.8 | price returns and changes in vt. dZ1 and dZ2 are Wiener processes.
+p35   L24  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | The stochastic process (1.1) followed by the stock price is equivalent
+p35   L25  drop-off KEPT                           cand=0 cells=2 font=-                      h=    - | to the one assumed in the derivation of Black and Scholes (1973). This
+p35   L26  drop-off KEPT                           cand=0 cells=6 font=-                      h=    - | ensures that the standard time-dependent volatility version of the Black-
+p35   L27  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | Scholes formula (as derived in Section 8.6 of Wilmott (2000) for example)
+p35   L28  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h= 10.2 | may be retrieved in the limit η → 0. In practical applications, this is a key
+p35   L29  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | requirement of a stochastic volatility option pricing model as practitioners'
+p35   L30  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | intuition for the behavior of option prices is invariably expressed within the
+p35   L31  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | framework of the Black-Scholes formula.
+p35   L32  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | In contrast, the stochastic process (1.2) followed by the variance is very
+p35   L33  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h= 10.2 | general. We don't assume anything about the functional forms of α(·) and
+p35   L34  drop-off KEPT                           cand=0 cells=1 font=MTMI                   h= 10.2 | β(·). In particular, we don't assume a square root process for variance.
+p35   L35  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | In the Black-Scholes case, there is only one source of randomness, the
+p35   L36  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | stock price, which can be hedged with stock. In the present case, random
+p35   L37  drop-off KEPT                           cand=0 cells=7 font=-                      h=    - | changes in volatility also need to be hedged in order to form a riskless
+p35   L38  drop-off KEPT                           cand=0 cells=1 font=Sabon-Roman            h=  9.9 | portfolio. So we set up a portfolio containing the option being priced,
+p35   L39  drop-off KEPT                           cand=0 cells=8 font=-                      h=    - | whose value we denote by V(S, v, t), a quantity - of the stock and

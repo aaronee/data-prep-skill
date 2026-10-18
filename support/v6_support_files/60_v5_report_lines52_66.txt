@@ -1,0 +1,15 @@
+Every `open()` in `prep.py`, `filter_llm.py`, `make_eval_candidates.py` and the tests now uses `encoding="utf-8"` (Windows/non-UTF-8-locale hardening).
+
+### 2.9 Docs (step 5, hand edits, 3 files)
+`SKILL.md`: `--code-fonts` + `--min-questions` rows, rewritten `--min-hit` row, STRICT-needs-a-page/TODO paragraph, LLM exit-codes + env-key paragraph. `references/rules.md`: changelog v3.13–v3.18, R8 row gained "monospace-font lines (see `--code-fonts`)". `docs/llm-run-log.md`: v5 failure-path + dry-run limitation paragraphs. (The "Live run — PENDING" block the task expected was already rewritten into the execution record on 2026-10-17; its key-free condition holds.)
+
+## 3. Real-book results, v2 → v3 → v4 → v5
+
+Canonical runs: v3/v4 at `/tmp/v3/f3/` (2026-10-17); v5 re-run at `/tmp/v5/f3/` (2026-10-18, same inputs and flags, no `--code-fonts`). **v5 is byte-identical to v4 on all three books**: `chunks.json` SHA-256 equal (trading `254cf54b…`, gatheral `aedab848…`, prado `12d83851…`), `clean.txt` and `removed.jsonl` byte-identical (`cmp`), `report.txt` differs only in outdir path. Rule+text counter diff of before/after `removed.jsonl`: newly removed **0**, rescued **0** on all three books.
+
+| metric | trading (214 pp) | gatheral | prado |
+|---|---|---|---|
+| chunks (v2 → v3 → v4 → v5) | 272 → 269 → 271 → **271** | 164 → 159 → 159 → **159** | 362 → 346 → 356 → **356** |
+| chunks over 150% cap | 0 → 0 → 0 → **0** | 0 → 0 → 0 → **0** | 0 → 0 → 0 → **0** |
+| removed lines (v2 → v3 → v4 → v5) | 911 → 1,015 → 1,008 → **1,008** | 1,079 → 1,472 → 1,471 → **1,471** | 2,471 → 3,131 → 2,868 → **2,868** |
+| retention WARNINGs (v4 = v5) | 0 | 10 | 13 |
